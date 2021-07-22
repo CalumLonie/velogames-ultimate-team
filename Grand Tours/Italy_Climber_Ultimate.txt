@@ -1,0 +1,7 @@
+Name,Cost,Points
+Aleksandr Vlasov,16,1544
+Dani Martinez,12,1475
+Dan Martin,10,1191
+Romain Bardet,10,1100
+Damiano Caruso,8,2060
+Giulio Ciccone,8,786

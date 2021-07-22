@@ -1,0 +1,10 @@
+Name,Cost,Points
+Filippo Ganna,8,832
+Gianni Moscon,6,764
+Nikias Arndt,6,673
+Edoardo Affini,6,668
+Dries De Bondt,6,630
+Lorenzo Fortunato,4,536
+Koen Bouwman,4,458
+Taco Van Der Hoorn,4,384
+Vincenzo Albanese,4,337

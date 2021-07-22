@@ -1,0 +1,3 @@
+Name,Cost,Points
+Fernando Gaviria,10,923
+Davide Cimolai,8,1017

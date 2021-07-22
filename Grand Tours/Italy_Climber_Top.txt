@@ -1,0 +1,12 @@
+Name,Cost,Points
+Simon Yates,22,1576
+Aleksandr Vlasov,16,1544
+Hugh Carthy,14,929
+Dani Martinez,12,1475
+Dan Martin,10,1191
+Romain Bardet,10,1100
+George Bennett,10,754
+Damiano Caruso,8,2060
+Giulio Ciccone,8,786
+Davide Formolo,8,417
+Gino Maeder,6,344
