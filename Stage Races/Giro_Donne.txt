@@ -1,0 +1,28 @@
+Name,Cost,Points
+Anna Van Der Breggen,24,1512
+Marianne Vos,20,639
+Demi Vollering,18,1122
+Ashleigh Moolman,16,1177
+Elizabeth Deignan,14,732
+Emma Norsgaard,14,617
+Mavi Garcia,14,456
+Lorena Wiebes,14,352
+Marta Cavalli,12,648
+Elise Chabbey,12,531
+Niamh Fisher-Black,12,488
+Liane Lippert,12,322
+Lisa Brennauer,12,321
+Coryn Rivera,10,486
+Marta Bastianelli,10,312
+Evita Muzic,10,249
+Lucinda Brand,8,542
+Juliette Labous,8,517
+Erica Magnaldi,8,339
+Elena Cecchini,8,321
+Sofia Bertizzolo,8,225
+Tatiana Guderzo,6,347
+Ilaria Sanguineti,6,260
+Eider Merino,6,140
+Gaia Realini,4,310
+Maria Sperotto,4,180
+Eleonora Camilla Gasparrini,4,90

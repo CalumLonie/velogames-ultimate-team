@@ -1,0 +1,27 @@
+Name,Cost,Points
+Geraint Thomas,22,901
+Richie Porte,20,682
+Rohan Dennis,16,402
+Wilco Kelderman,14,315
+Ion Izagirre,14,299
+Marc Soler,12,560
+Fausto Masnada,12,434
+Mike Woods,12,381
+Rui Costa,12,244
+Lucas Hamilton,12,240
+Ben O'Connor,10,305
+Marc Hirschi,10,230
+Damiano Caruso,10,203
+Sonny Colbrelli,8,505
+Magnus Cort,8,346
+Peter Sagan,8,330
+Mattia Cattaneo,8,309
+Remi Cavagna,8,277
+Stefan Bissegger,8,239
+Patrick Bevin,6,260
+Thymen Arensman,6,196
+Simone Petilli,6,131
+Ilan Van Wilder,4,375
+Kobe Goossens,4,153
+Mattias Skjelmose,4,135
+Joel Suter,4,104
