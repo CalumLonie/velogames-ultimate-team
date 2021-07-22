@@ -1,0 +1,61 @@
+Names,Cost,LBL,DBP,GW,RVV,DP,Total
+Anna Van Der Breggen,20,0,0,0,155,0,155
+Annemiek Van Vleuten,20,20,0,0,85,0,105
+Marianne Vos,16,130,0,0,0,0,130
+Elizabeth Deignan,14,300,0,125,0,0,425
+Elisa Longo Borghini,14,45,0,115,90,90,340
+Lorena Wiebes,14,0,0,50,0,160,210
+Christine Majerus,14,0,0,66,50,50,166
+Cecilie Uttrup Ludwig,14,45,0,0,50,0,95
+Elisa Balsamo,14,0,34,0,0,54,88
+Ashleigh Moolman-Pasio,14,50,0,0,0,0,50
+Amy Pieters,12,120,0,140,205,58,523
+Lisa Brennauer,12,0,0,160,130,140,430
+Soraya Paladin,12,55,0,0,0,0,55
+Ellen Van Dijk,10,180,0,60,45,85,370
+Jolien D'Hoore,10,0,0,200,90,26,316
+Demi Vollering,10,75,0,130,100,0,305
+Chantal Blaak,10,10,0,0,280,9,299
+Liane Lippert,10,80,126,0,0,0,206
+Ruth Winder,10,100,0,0,0,0,100
+Mavi Garcia,10,15,60,0,0,0,75
+Arlenis Sierra,10,0,42,0,0,0,42
+Coryn Rivera,10,0,36,0,0,0,36
+Lotte Kopecky,8,0,90,180,150,120,540
+Sarah Roy,8,0,35,150,120,110,415
+Lauren Stephens,8,0,75,135,85,0,295
+Marta Cavalli,8,40,0,140,80,0,260
+Floortje Mackaij,8,70,112,0,70,0,252
+Maria Giulia Confalonieri,8,0,70,30,20,12,132
+Alena Amialiusik,8,0,0,0,110,0,110
+Riejanne Markus,8,0,0,12,65,27,104
+Amalie Dideriksen,8,0,0,20,80,0,100
+Alison Jackson,8,0,0,0,0,100,100
+Juliette Labous,8,90,0,0,0,0,90
+Emilia Fahlin,8,0,80,0,0,0,80
+Alice Barnes,8,0,0,0,0,75,75
+Rasa Leleivyte,8,0,75,0,0,0,75
+Elise Chabbey,8,65,0,0,0,0,65
+Tayler Wiles,8,40,0,0,0,0,40
+Vita Heine,8,0,38,0,0,0,38
+Grace Brown,6,175,180,15,60,0,430
+Hannah Barnes,6,110,0,30,0,0,140
+Marlen Reusser,6,100,0,0,0,0,100
+Lonneke Uneken,6,0,0,20,0,66,86
+Katrine Aalerud,6,85,0,0,0,0,85
+Sofia Bertizzolo,6,0,0,0,0,80,80
+Franziska Koch,6,0,18,0,0,58,76
+Susanne Andersen,6,0,18,0,0,55,73
+Katia Ragusa,6,0,65,0,0,0,65
+Ilaria Sanguineti,6,0,0,34,25,0,59
+Eugenie Duval,6,0,0,0,0,55,55
+Tiffany Cromwell,6,0,46,0,0,0,46
+Anna Plichta,6,40,0,0,0,0,40
+Emma Cecilie Norsgaard,6,0,0,38,0,0,38
+Anastasiia Chursina,6,0,30,0,0,0,30
+Vittoria Guazzini,4,0,0,42,5,41,88
+Kristen Faulkner,4,30,50,0,0,0,80
+Karlijn Swinkels,4,0,27,27,0,0,54
+Julia Soek,4,0,0,0,0,52,52
+Romy Kasper,4,0,0,0,0,50,50
+Clara Copponi,4,0,0,0,0,42,42

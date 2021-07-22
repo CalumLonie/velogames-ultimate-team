@@ -1,0 +1,26 @@
+Name,Cost,Points
+Wout Van Aert,20,358
+Michael Matthews,12,268
+Sam Bennett,12,72
+Matteo Trentin,10,308
+Greg Van Avermaet,10,95
+Yves Lampaert,10,85
+Oliver Naesen,10,75
+Ivan Garcia Cortina,10,65
+Giacomo Nizzolo,8,328
+Sonny Colbrelli,8,288
+Stefan Kueng,8,258
+Dylan Van Baarle,8,130
+Danny Van Poppel,8,112
+Anthony Turgis,6,120
+Gianni Vermeersch,6,110
+Sven Erik Bystrom,6,102
+Jack Bauer,6,80
+Owain Doull,6,70
+Bert Van Lerberghe,6,55
+Max Walscheid,6,49
+Nathan Van Hooydonck,4,284
+Jeremy Lecroq,4,100
+Dries Van Gestel,4,60
+Michal Golas,4,50
+Cyril Lemoine,4,45

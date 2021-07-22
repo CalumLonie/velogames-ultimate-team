@@ -1,0 +1,26 @@
+Name,Cost,Points
+Wout Van Aert,20,256
+Tom Pidcock,10,286
+Matteo Trentin,10,272
+Benoit Cosnefroy,10,130
+Greg Van Avermaet,10,95
+Dylan Teuns,8,140
+Valentin Madouas,8,85
+Christophe Laporte,8,65
+Rudy Molard,8,55
+Andreas Leknessund,6,182
+Ide Schelling,6,180
+Tom Skujins,6,160
+Robert Stannard,6,150
+Oscar Riesebeek,6,120
+Remi Cavagna,6,100
+Dries De Bondt,6,90
+Ludovic Robeet,6,72
+Jordi Meeus,6,72
+Victor Campenaerts,6,70
+Marcus Burghardt,6,60
+Milan Menten,4,80
+Sylvain Moniquet,4,75
+Julian Mertens,4,72
+Anders Skaarseth,4,72
+Brent Van Moer,4,72

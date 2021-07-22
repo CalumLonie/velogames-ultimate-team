@@ -1,0 +1,26 @@
+Name,Cost,Points
+Mathieu Van Der Poel,20,48
+Yves Lampaert,10,346
+Kasper Asgreen,10,252
+Matteo Trentin,10,222
+Florian Senechal,10,130
+Tim Merlier,8,272
+John Degenkolb,8,252
+Stefan Kueng,8,166
+Max Walscheid,8,90
+Tim Declercq,6,328
+Jempy Drucker,6,196
+Sven Erik Bystrom,6,136
+Christophe Laporte,6,131
+Hugo Hofstetter,6,85
+Tom Van Asbroeck,6,65
+Dries Devenyns,6,60
+Lukas Poestelberger,6,60
+Bert Van Lerberghe,4,272
+Jonas Rickaert,4,194
+Alexander Krieger,4,92
+Guillaume Van Keirsbulck,4,75
+Mauri Vansevenant,4,60
+Timo Roosen,4,55
+Roger Kluge,4,50
+Taco Van Der Hoorn,4,45

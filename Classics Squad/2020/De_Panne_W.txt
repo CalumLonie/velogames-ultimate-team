@@ -1,0 +1,26 @@
+Name,Cost,Points
+Lorena Wiebes,14,160
+Elisa Longo Borghini,14,90
+Elisa Balsamo,14,54
+Christine Majerus,14,50
+Lisa Brennauer,12,140
+Amy Pieters,12,58
+Ellen van Dijk,10,85
+Jolien D'Hoore,10,26
+Lotte Kopecky,8,120
+Sarah Roy,8,110
+Alison Jackson,8,100
+Alice Barnes,8,75
+Riejanne Markus,8,27
+Maria Giulia Confalonieri,8,12
+Sofia Bertizzolo,6,80
+Lonneke Uneken,6,66
+Franziska Koch,6,58
+Susanne Andersen,6,55
+Eugenie Duval,6,55
+Jeanne Korevaar,6,24
+Julia Soek,4,52
+Romy Kasper,4,50
+Clara Copponi,4,42
+Vittoria Guazzini,4,41
+Pfeiffer Georgi,4,20
