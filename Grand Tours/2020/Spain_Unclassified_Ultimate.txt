@@ -1,0 +1,7 @@
+Name,Cost,Points
+Tim Wellens,8,838
+Felix Grossschartner,6,1282
+Max Kanter,4,449
+Thymen Arensman,4,406
+Mark Donovan,4,386
+Gino Maeder,4,353

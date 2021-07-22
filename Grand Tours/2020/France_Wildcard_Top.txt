@@ -1,0 +1,62 @@
+Name,Cost,Points
+Primoz Roglic,24,2529
+Richie Porte,10,1460
+Enric Mas,10,1077
+Rigoberto Uran,8,876
+Julian Alaphilippe,18,986
+Tadej Pogacar,16,2882
+Richard Carapaz,16,1145
+Miguel Angel Lopez,14,1316
+Mikel Landa,14,1164
+Adam Yates,12,1196
+Guillaume Martin,10,877
+Sepp Kuss,10,703
+Lennard Kaemna,10,570
+Warren Barguil,8,422
+Damiano Caruso,6,622
+Pierre Rolland,6,588
+Jesus Herrada,6,435
+Sebastien Reichenbach,6,342
+Peter Sagan,16,1477
+Sam Bennett,14,1800
+Wout Van Aert,12,1464
+Caleb Ewan,12,965
+Bryan Cocquard,8,942
+Luka Mezgec,8,835
+Jasper Stuyven,8,787
+Matteo Trentin,8,777
+Alexander Kristoff,8,686
+Cees Bol,8,633
+Mads Pedersen,6,730
+Greg Van Avermaet,8,584
+Alexey Lutsenko,8,432
+Marc Hirschi,6,1010
+Soren Kragh Andersen,6,840
+Hugo Hofstetter,6,530
+Neilson Powless,6,499
+Nans Peters,6,412
+Toms Skujins,6,396
+Oliver Naesen,6,359
+Benoit Cosnefroy,6,352
+Alberto Bettiol,6,259
+Remi Cavagna,6,255
+Valentin Madouas,6,247
+Nicolas Roche,6,247
+Robert Gesink,6,246
+Tony Martin,6,226
+Amund Grondahl Jansen,6,224
+Kenny Elissonde,6,208
+Michael Morkov,6,205
+Nicolas Edet,6,188
+Jose Joaquin Rojas,6,174
+Luke Rowe,6,157
+Nikias Arndt,6,154
+Dario Cataldo,6,142
+Nelson Oliveira,6,142
+Carlos Verona,4,510
+Quentin Pacher,4,436
+Simon Geschke,4,335
+Hugo Houle,4,295
+Casper Pedersen,4,232
+Imanol Erviti,4,224
+Michael Gogl,4,158

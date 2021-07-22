@@ -1,0 +1,44 @@
+Primoz Roglic,10,25,50,100
+Richie Porte,10,25,50,100
+Enric Mas,0,1,3,5
+Rigoberto Uran,1,2,3,5
+Tadej Pogacar,10,25,50,100
+Miguel Angel Lopez,1,3,6,15
+Mikel Landa,0,0,1,2
+Adam Yates,3,10,18,38
+Guillaume Martin,0,1,3,7
+Warren Barguil,0,0,1,2
+Damiano Caruso,3,7,10,23
+Pierre Rolland,3,5,10,14
+Jesus Herrada,0,0,3,5
+Sebastien Reichenbach,0,0,0,2
+Sam Bennett,10,25,48,92
+Wout Van Aert,6,11,25,48
+Bryan Cocquard,2,3,5,15
+Luka Mezgec,0,2,2,5
+Jasper Stuyven,0,1,2,3
+Matteo Trentin,0,1,2,2
+Alexander Kristoff,0,0,1,2
+Cees Bol,0,0,0,1
+Mads Pedersen,1,3,7,12
+Greg Van Avermaet,0,0,0,1
+Marc Hirschi,10,25,50,100
+Soren Kragh Andersen,10,25,49,94
+Hugo Hofstetter,2,3,4,11
+Neilson Powless,2,2,4,7
+Nans Peters,0,2,2,4
+Toms Skujins,0,1,2,3
+Oliver Naesen,0,0,2,2
+Benoit Cosnefroy,0,0,2,2
+Alberto Bettiol,0,0,0,2
+Remi Cavagna,0,0,0,1
+Valentin Madouas,0,0,0,1
+Nicolas Roche,0,0,0,1
+Robert Gesink,0,0,0,1
+Tony Martin,0,0,0,1
+Carlos Verona,5,10,19,33
+Quentin Pacher,1,6,10,21
+Simon Geschke,0,1,5,8
+Hugo Houle,0,0,1,6
+Casper Pedersen,0,0,0,2
+Imanol Erviti,0,0,0,1

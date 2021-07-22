@@ -1,0 +1,38 @@
+Name,Cost,Points
+Primoz Roglic,26,3733
+Enric Mas,18,1657
+Alejandro Valverde,16,1249
+Marc Soler,12,1226
+Wout Poels,10,1056
+David De La Cruz,10,880
+Ion Izagirre,10,553
+Gorka Izagirre,8,348
+Richard Carapaz,20,2877
+Sepp Kuss,16,1227
+Aleksandr Vlasov,16,1078
+David Gaudu,14,1110
+Guillaume Martin,12,1601
+George Bennett,10,934
+Michael Woods,10,865
+Dan Martin,8,2211
+Hugh Carthy,8,1910
+Mikel Nieve,8,489
+Mattia Cattaneo,6,502
+Sergio Henao,6,351
+Omar Fraile,6,268
+Pascal Ackermann,10,885
+Jasper Philipsen,8,880
+Magnus Cort,6,593
+Dion Smith,6,395
+Tim Wellens,8,838
+Alex Aranburu,8,473
+Rui Costa,8,467
+Luis Leon Sanchez,8,76
+Felix Grossschartner,6,1282
+Robert Stannard,6,427
+Nelson Oliveira,6,416
+Michael Storer,6,413
+Max Kanter,4,449
+Thymen Arensman,4,406
+Mark Donovan,4,386
+Gino Maeder,4,353

@@ -1,0 +1,6 @@
+Name,Cost,Points
+Pello Bilbao,10,1481
+Fausto Masnada,10,946
+Domenico Pozzovivo,10,871
+Jai Hindley,6,2106
+Hermann Pernsteiner,6,818

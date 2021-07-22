@@ -1,0 +1,8 @@
+Name,Cost,Points
+Richard Carapaz,20,2877
+Guillaume Martin,12,1601
+George Bennett,10,934
+Michael Woods,10,865
+Dan Martin,8,2211
+Hugh Carthy,8,1910
+Mattia Cattaneo,6,502

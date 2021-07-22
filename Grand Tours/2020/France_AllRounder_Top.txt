@@ -1,0 +1,5 @@
+Name,Cost,Points
+Primoz Roglic,24,2529
+Richie Porte,10,1460
+Enric Mas,10,1077
+Rigoberto Uran,8,876

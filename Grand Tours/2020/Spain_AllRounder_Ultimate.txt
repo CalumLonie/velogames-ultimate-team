@@ -1,0 +1,6 @@
+Name,Cost,Points
+Primoz Roglic,26,3733
+Enric Mas,18,1657
+Marc Soler,12,1226
+Wout Poels,10,1056
+David De La Cruz,10,880

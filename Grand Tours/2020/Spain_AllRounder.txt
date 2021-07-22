@@ -1,0 +1,9 @@
+Name,Cost,Points
+Primoz Roglic,26,3733
+Enric Mas,18,1657
+Alejandro Valverde,16,1249
+Marc Soler,12,1226
+Wout Poels,10,1056
+David De La Cruz,10,880
+Ion Izagirre,10,553
+Gorka Izagirre,8,348

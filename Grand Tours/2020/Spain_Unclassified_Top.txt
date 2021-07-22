@@ -1,0 +1,33 @@
+Name,Cost,Points
+Tim Wellens,8,838
+Alex Aranburu,8,473
+Rui Costa,8,467
+Felix Grossschartner,6,1282
+Robert Stannard,6,427
+Nelson Oliveira,6,416
+Michael Storer,6,413
+Jasha Suetterlin,6,351
+Robert Gesink,6,333
+Dylan Van Baarle,6,325
+Dorian Godon,6,320
+Jonas Vingegaard,6,298
+Jose Joaquin Rojas,6,277
+Michael Valgren,6,243
+Zdenek Stybar,6,242
+Robert Power,6,230
+Julien Simon,6,230
+Jannik Steimle,6,221
+Remi Cavagna,6,208
+Max Kanter,4,449
+Thymen Arensman,4,406
+Mark Donovan,4,386
+Gino Maeder,4,353
+Gerben Thijssen,4,341
+Paul Martens,4,268
+Lennard Hofstede,4,268
+Will Barta,4,247
+Emmanuel Morin,4,234
+Bruno Armirail,4,218
+Jorge Arcas,4,207
+Fred Wright,4,205
+Imanol Erviti,4,202

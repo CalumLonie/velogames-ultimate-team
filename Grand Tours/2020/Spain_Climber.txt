@@ -1,0 +1,14 @@
+Name,Cost,Points
+Richard Carapaz,20,2877
+Sepp Kuss,16,1227
+Aleksandr Vlasov,16,1078
+David Gaudu,14,1110
+Guillaume Martin,12,1601
+George Bennett,10,934
+Michael Woods,10,865
+Dan Martin,8,2211
+Hugh Carthy,8,1910
+Mikel Nieve,8,489
+Mattia Cattaneo,6,502
+Sergio Henao,6,351
+Omar Fraile,6,268
