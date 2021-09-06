@@ -1,0 +1,27 @@
+Name,Cost,Points
+Annemiek Van Vleuten,24,733
+Elisa Longo Borghini,20,456
+Marta Cavalli,16,386
+Marlen Reusser,14,723
+Katarzyna Niewiadoma,14,455
+Lotte Kopecky,14,381
+Ellen Van Dijk,14,146
+Liane Lippert,12,465
+Elisa Balsamo,12,230
+Elise Chabbey,10,530
+Coryn Rivera,10,188
+Kristen Faulkner,10,104
+Floortje Mackaij,8,328
+Pauliena Rooijakkers,8,308
+Leah Thomas,8,264
+Kata Vas,6,302
+Anna Henderson,6,275
+Alena Amialiusik,6,136
+Riejanne Markus,6,132
+Silvia Zanardi,6,90
+Abi Smith,6,89
+Hannah Ludwig,6,84
+Amber Kraak,4,72
+Sara Martin,4,56
+Marie Le Net,4,52
+Lourdes Oyarbide,4,46
