@@ -1,0 +1,9 @@
+Name,Cost,Points
+Andrea Bagioli,8,706
+Magnus Cort,6,1254
+Michael Storer,6,855
+Clement Champoussin,6,732
+Rui Oliveira,6,524
+Odd Christian Eiking,4,733
+Antonio Soto,4,458
+Juan Pedro Lopez,4,341
