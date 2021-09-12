@@ -1,0 +1,30 @@
+Name,Cost,Points
+Wout Van Aert,24,1260
+Julian Alaphilippe,22,903
+Ethan Hayter,16,1290
+Mike Woods,16,562
+Mark Cavendish,14,302
+Mikkel Honore,12,619
+Rohan Dennis,12,420
+Dan Martin,12,364
+Gonzalo Serrano,10,493
+Matteo Jorgenson,10,287
+Max Kanter,10,283
+James Shaw,10,268
+Xandro Meurisse,10,235
+Kristian Sbaragli,8,472
+Carlos Rodriguez,8,353
+Nico Roche,8,207
+Pascal Eenkhoorn,8,194
+Rory Townsend,6,406
+Colin Joyce,6,238
+Mark Donovan,6,237
+Alex Peters,6,168
+Nils Eekhoff,6,164
+Tim Declercq,6,154
+Robin Carpenter,4,386
+Jacob Scott,4,300
+Matthew Gibson,4,205
+Maxime Bouet,4,153
+Nicolas Sessler,4,128
+Michal Paluta,4,116
