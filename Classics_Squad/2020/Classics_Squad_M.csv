@@ -1,0 +1,219 @@
+Names,Cost,FW,LBL,DBP,GW,SP,RVV,DP,Total
+Mathieu Van Der Poel,20,0,220,256,192,0,520,48,1236
+Wout Van Aert,20,0,0,0,202,0,470,0,672
+Julian Alaphilippe,20,0,300,322,0,0,0,0,622
+Tadej Pogacar,16,120,360,0,0,0,0,0,480
+Michael Woods,14,200,200,0,0,0,0,0,400
+Michal Kwiatkowski,12,150,150,186,0,0,0,0,486
+Alexander Kristoff,12,0,0,0,60,90,300,30,480
+Oliver Naesen,12,0,0,0,85,0,200,0,285
+Sep Vanmarcke,12,0,0,0,142,0,84,0,226
+Sam Bennett,12,0,0,0,24,130,0,0,154
+Jasper Stuyven,12,0,0,0,36,0,30,40,106
+Pascal Ackermann,12,0,0,0,0,50,0,0,50
+Yves Lampaert,10,0,0,0,236,0,240,346,822
+Marc Hirschi,10,250,410,0,0,0,0,0,660
+Florian Senechal,10,0,0,0,292,5,130,130,557
+Kasper Asgreen,10,0,0,0,160,0,120,252,532
+Matteo Trentin,10,0,0,0,308,0,0,222,530
+Primoz Roglic,10,0,460,0,0,0,0,0,460
+Dylan Teuns,10,0,24,95,146,0,140,0,405
+Tiesj Benoot,10,0,220,0,0,0,150,0,370
+Dan Martin,10,160,140,0,0,0,0,0,300
+Caleb Ewan,10,0,0,0,0,250,0,0,250
+Tim Wellens,10,50,0,0,0,0,0,0,50
+John Degenkolb,8,0,0,0,222,0,160,252,634
+Warren Barguil,8,180,160,160,0,0,0,0,500
+Tim Merlier,8,0,0,0,20,180,0,272,472
+Stefan Kueng,8,0,0,0,268,0,0,166,434
+Mads Pedersen,8,0,0,0,358,0,0,0,358
+Alberto Bettiol,8,0,0,0,252,0,90,0,342
+Matej Mohoric,8,30,260,0,0,0,0,0,290
+Valentin Madouas,8,100,36,0,0,0,110,0,246
+Richie Porte,8,130,90,0,0,0,0,0,220
+Sonny Colbrelli,8,0,0,216,0,0,0,0,216
+Tom Dumoulin,8,0,190,0,0,0,0,0,190
+Jelle Vanendert,8,95,48,45,0,0,0,0,188
+Andrea Pasqualon,8,0,0,85,55,0,42,0,182
+Dylan Van Baarle,8,0,0,0,0,0,180,0,180
+Jasper De Buyst,8,0,0,60,0,36,78,0,174
+Dani Martinez,8,102,66,0,0,0,0,0,168
+Jasper Philipsen,8,0,0,0,0,160,0,0,160
+Luka Mezgec,8,0,0,75,0,20,48,0,143
+Mike Teunissen,8,0,0,0,137,0,0,5,142
+Edward Theuns,8,0,0,0,36,85,0,20,141
+Patrick Konrad,8,140,0,0,0,0,0,0,140
+Rigoberto Uran,8,12,100,0,0,0,0,0,112
+Guillaume Martin,8,0,110,0,0,0,0,0,110
+Max Walscheid,8,0,0,0,0,0,6,90,96
+Dries De Bondt,8,0,0,24,0,0,60,0,84
+Wout Poels,8,75,0,0,0,0,0,0,75
+Nils Politt,8,0,0,0,0,0,72,0,72
+Romain Bardet,8,0,0,32,0,0,36,0,68
+Lennard Kaemna,8,0,60,0,0,0,0,0,60
+Zdenek Stybar,8,0,0,36,24,0,0,0,60
+Cees Bol,8,0,0,0,50,0,0,0,50
+Alexis Vuillermoz,8,49,0,0,0,0,0,0,49
+Jens Keukeleire,8,12,0,0,0,0,24,0,36
+Michael Valgren,8,0,0,30,0,0,0,0,30
+Rui Costa,8,0,20,0,0,0,0,0,20
+Sergio Higuita,8,12,0,0,0,0,0,0,12
+Enrico Gasparotto,8,5,0,0,0,0,0,0,5
+Benoit Cosnefroy,6,220,78,272,0,0,0,0,570
+Anthony Turgis,6,0,0,130,10,24,260,0,424
+Tim Declercq,6,0,0,0,24,0,0,328,352
+Jempy Drucker,6,0,0,0,80,0,0,196,276
+Amaury Capiot,6,0,0,5,40,150,54,0,249
+Andrea Bagioli,6,60,0,176,0,0,0,0,236
+Sven Erik Bystrom,6,0,0,0,0,0,86,136,222
+Niccolo Bonifazio,6,0,0,0,0,220,0,0,220
+Dimitri Claeys,6,0,0,0,0,0,220,0,220
+Dries Devenyns,6,0,0,146,0,0,0,60,206
+Rudy Molard,6,85,120,0,0,0,0,0,205
+Hugo Hofstetter,6,0,0,0,35,80,0,85,200
+Bryan Coquard,6,0,0,0,0,200,0,0,200
+Florian Vermeersch,6,0,0,0,162,36,0,0,198
+Luke Rowe,6,0,0,0,167,0,0,0,167
+Piotr Havik,6,0,0,0,0,144,0,0,144
+Christophe Laporte,6,0,0,0,0,10,0,131,141
+Arvid De Kleijn,6,0,0,0,0,140,0,0,140
+Gorka Izagirre,6,40,84,0,0,0,0,0,124
+Alessandro Covi,6,0,0,120,0,0,0,0,120
+Gregor Muehlberger,6,0,0,0,0,0,120,0,120
+Danny Van Poppel,6,0,0,0,0,0,120,0,120
+Nick Schultz,6,65,54,0,0,0,0,0,119
+Simon Gescke,6,110,6,0,0,0,0,0,116
+Gianni Vermeersch,6,0,0,0,41,0,60,12,113
+Jesus Herrada,6,80,30,0,0,0,0,0,110
+Mark Cavendish,6,0,0,0,36,72,0,0,108
+Chris Juul-Jensen,6,0,0,0,0,108,0,0,108
+Dorian Godon,6,24,0,82,0,0,0,0,106
+Nacer Bouhanni,6,0,0,0,0,100,0,0,100
+Xandro Meurisse,6,0,0,0,0,0,100,0,100
+Michael Van Staeyen,6,0,0,0,0,95,0,0,95
+Reinardt Janse Van Rensburg,6,0,0,0,15,75,0,0,90
+Krstian Sbaragli,6,10,0,79,0,0,0,0,89
+Petr Vakoc,6,0,0,24,0,0,60,0,84
+Alexis Gougeard,6,0,0,0,72,0,0,0,72
+Krists Neilands,6,70,0,0,0,0,0,0,70
+Tom Van Asbroeck,6,0,0,0,0,0,0,65,65
+Lukas Poestelberger,6,0,0,0,0,0,0,60,60
+Samuele Battistella,6,0,0,0,0,0,60,0,60
+Laurens De Plus,6,0,60,0,0,0,0,0,60
+Jonas Vingegaard,6,0,60,0,0,0,0,0,60
+Jake Stewart,6,0,0,0,0,55,0,0,55
+Alessandro De Marchi,6,0,0,50,0,0,0,0,50
+Louis Vervaeke,6,45,0,0,0,0,0,0,45
+Rui Oliveira,6,0,0,25,0,0,20,0,45
+Loic Vliegen,6,0,42,0,0,0,0,0,42
+Amund Jansen,6,0,0,0,0,0,40,0,40
+Toms Skujins,6,0,0,0,36,0,0,0,36
+Matthias Frank,6,24,0,12,0,0,0,0,36
+Andrea Peron,6,0,0,36,0,0,0,0,36
+Alexander Konychev,6,0,0,0,36,0,0,0,36
+Jannik Steimle,6,0,0,36,0,0,0,0,36
+Julien Simon,6,15,18,0,0,0,0,0,33
+Piet Allegaert,6,0,0,0,0,25,0,0,25
+Scott Thwaites,6,0,0,24,0,0,0,0,24
+Adrien Petit,6,0,0,0,0,24,0,0,24
+Oscar Riesebeek,6,0,0,0,0,0,0,22,22
+Sergio Henao,6,0,20,0,0,0,0,0,20
+Jan Polanc,6,0,20,0,0,0,0,0,20
+Michael Gogl,6,0,0,0,0,0,18,0,18
+Jan Bakelants,6,0,0,15,0,0,0,0,15
+Jens Debusschere,6,0,0,0,0,12,0,0,12
+Carlos Verona,6,0,12,0,0,0,0,0,12
+Jonas Koch,6,0,0,0,12,0,0,0,12
+Hugh Carthy,6,12,0,0,0,0,0,0,12
+Bert Van Lerberghe,4,0,0,0,24,40,0,272,336
+Jonas Rickaert ,4,0,0,0,0,0,60,194,254
+Michael Schaer,4,0,120,0,12,108,0,0,240
+Mauri Vansevenant,4,144,0,36,0,0,0,60,240
+Alexander Krieger,4,0,0,24,0,0,60,92,176
+Omar Fraile,4,20,72,76,0,0,0,0,168
+Romain Cardis,4,0,0,0,0,134,0,25,159
+Mathijs Paasschens,4,72,60,0,0,0,0,0,132
+Gijs Van Hoecke,4,0,0,0,12,0,120,0,132
+Itamar Einhorn,4,0,0,0,0,120,0,0,120
+Fabio Van Den Bossche,4,0,0,0,0,0,120,0,120
+Michael Storer,4,36,40,36,0,0,0,0,112
+Travis McCabe,4,0,0,0,0,108,0,0,108
+Dmitriy Gruzdev,4,0,0,0,0,108,0,0,108
+Luc Wirtgen,4,0,0,0,0,108,0,0,108
+Stan Dewulf,4,0,0,100,0,0,0,0,100
+Kenny Molly,4,0,60,0,36,0,0,0,96
+Timo Roosen,4,0,0,0,0,0,40,55,95
+Arjen Livyns,4,0,0,80,0,0,12,0,92
+Johan Jacobs,4,0,0,0,75,0,0,15,90
+Ide Schelling,4,0,0,90,0,0,0,0,90
+Guillaume Van Keirsbulck,4,0,0,0,12,0,0,75,87
+Roger Kluge,4,0,0,0,0,36,0,50,86
+Taco Van Der Hoorn,4,0,0,0,0,0,40,45,85
+Otto Vergaerde,4,0,0,24,0,0,60,0,84
+Rob Power,4,36,40,0,0,0,0,0,76
+Ilan Van Wilder,4,36,40,0,0,0,0,0,76
+Thymen Arensman,4,36,40,0,0,0,0,0,76
+Mark Donovan,4,36,40,0,0,0,0,0,76
+Marlon Gaillard,4,72,0,0,0,0,0,0,72
+Aaron Van Poucke,4,72,0,0,0,0,0,0,72
+Clement Champoussin,4,59,0,12,0,0,0,0,71
+Nikolas Maes,4,0,0,0,0,36,0,35,71
+Max Kanter,4,0,0,0,0,70,0,0,70
+Davide Martinelli,4,0,0,0,0,65,0,0,65
+Lucas Eriksson,4,0,0,65,0,0,0,0,65
+Frederik Frison,4,0,0,0,25,36,0,0,61
+Mickael Delage,4,0,0,0,0,0,60,0,60
+Omer Goldstein,4,0,60,0,0,0,0,0,60
+Valentin Ferron,4,0,60,0,0,0,0,0,60
+Paul Ourselin,4,0,60,0,0,0,0,0,60
+Kobe Goossens,4,0,60,0,0,0,0,0,60
+Inigo Elosegui,4,0,60,0,0,0,0,0,60
+Dimitri Peyskens,4,0,0,0,0,0,60,0,60
+Gino Maeder,4,0,60,0,0,0,0,0,60
+Lennard Hofstede,4,0,60,0,0,0,0,0,60
+Alfdan De Decker,4,0,0,0,0,60,0,0,60
+Tom Leezer,4,0,60,0,0,0,0,0,60
+Paul Martens,4,0,60,0,0,0,0,0,60
+Hugo Houle,4,55,0,0,0,0,0,0,55
+Ryan Mullen,4,0,0,0,36,15,0,0,51
+Clement Chevrier,4,0,0,48,0,0,0,0,48
+Julien Morice,4,0,0,0,36,12,0,0,48
+Silvan Dillier,4,0,0,0,45,0,0,0,45
+Evaldas Siskevicius,4,0,0,0,0,45,0,0,45
+Pascal Eenkhoorn,4,0,0,0,0,0,40,0,40
+Bert-Jan Lindeman,4,0,0,0,0,0,40,0,40
+Maarten Wynants,4,0,0,0,0,0,40,0,40
+Alex Kirsch,4,0,0,0,36,0,0,0,36
+Kiel Reijnen,4,0,0,0,36,0,0,0,36
+David Van Der Poel,4,0,0,36,0,0,0,0,36
+Brian Van Goethem,4,0,0,0,0,36,0,0,36
+Juraj Sagan,4,0,0,36,0,0,0,0,36
+Leonardo Basso,4,0,0,0,36,0,0,0,36
+Gilles De Wilde,4,0,0,0,36,0,0,0,36
+Thomas Sprengers,4,0,0,36,0,0,0,0,36
+Ian Garrison,4,0,0,36,0,0,0,0,36
+Felix Gall,4,36,0,0,0,0,0,0,36
+Guillaume Boivin,4,0,0,0,0,35,0,0,35
+Andreas Kron,4,0,0,35,0,0,0,0,35
+Dusan Rajovic,4,0,0,0,0,30,0,0,30
+Cyril Lemoine,4,0,0,0,30,0,0,0,30
+Mickael Cherel,4,24,0,0,0,0,0,0,24
+Quentin Jauregui,4,24,0,0,0,0,0,0,24
+Florian Maitre,4,0,0,0,0,24,0,0,24
+Geoffrey Soupe,4,0,0,0,0,24,0,0,24
+Dries Van Gestel,4,0,0,0,0,24,0,0,24
+Andres Camilo Ardila,4,0,20,0,0,0,0,0,20
+Tom Bohli,4,0,0,0,0,0,20,0,20
+Vegard Stake Laengen,4,0,0,0,0,0,20,0,20
+Marco Marcato,4,0,0,0,0,0,20,0,20
+Cristian Camilo Munoz,4,0,20,0,0,0,0,0,20
+Edward Ravasi,4,0,20,0,0,0,0,0,20
+Senne Leysen,4,0,0,0,0,0,0,12,12
+Frederik Backaert,4,0,0,0,0,12,0,0,12
+Kris Boeckmans,4,0,0,0,0,12,0,0,12
+Adrien Garel,4,0,0,0,0,12,0,0,12
+Jeremy Lecroq,4,0,0,0,0,12,0,0,12
+Nathan Van Hooydonck,4,0,0,0,12,0,0,0,12
+Georg Zimmermann,4,0,0,0,12,0,0,0,12
+Alex Howes,4,12,0,0,0,0,0,0,12
+August Jensen,4,0,0,10,0,0,0,0,10

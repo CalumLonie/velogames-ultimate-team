@@ -1,0 +1,26 @@
+Names,Cost,Points
+Anna Van Der Breggen,20,155
+Annemiek Van Vleuten,20,85
+Elisa Longo Borghini,14,90
+Christine Majerus,14,50
+Cecilie Uttrup Ludwig,14,50
+Amy Pieters,12,205
+Lisa Brennauer,12,130
+Chantal Blaak,10,280
+Demi Vollering,10,100
+Jolien D'Hoore,10,90
+Ellen Van Dijk,10,45
+Lotte Kopecky,8,150
+Sarah Roy,8,120
+Alena Amialiusik,8,110
+Lauren Stephens,8,85
+Amalie Dideriksen,8,80
+Marta Cavalli,8,80
+Floortje Mackaij,8,70
+Riejanne Markus,8,65
+Aude Biannic,8,35
+Mieke Kroeger,8,30
+Grace Brown,6,60
+Heidi Franz,6,30
+Teuntje Beekhuis,4,40
+Gloria Rodriguez,4,30

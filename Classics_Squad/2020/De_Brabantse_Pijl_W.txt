@@ -1,0 +1,26 @@
+Names,Cost,Points
+Elisa Balsamo,14,34
+Liane Lippert,10,126
+Mavi Garcia,10,60
+Arlenis Sierra,10,42
+Coryn Rivera,10,36
+Floortje Mackaij,8,112
+Lotte Kopecky,8,90
+Emilia Fahlin,8,80
+Lauren Stephens,8,75
+Rasa Leleivyte,8,75
+Maria Giulia Confalioneri,8,70
+Vita Heine,8,38
+Sarah Roy,8,35
+Grace Brown,6,180
+Katia Ragusa,6,65
+Tiffany Cromwell,6,46
+Anastasiia Chursina,6,30
+Kathrin Hammes,6,24
+Gracie Elvin,6,20
+Janneke Ensing,6,20
+Kristen Faulkner,4,50
+Karlijn Swinkels,4,27
+Aigul Gareeva,4,21
+Jessica Allen,4,20
+Jessica Roberts,4,20

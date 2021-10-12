@@ -1,0 +1,26 @@
+Names,Cost,Points
+Julian Alaphilippe,20,322
+Mathieu Van Der Poel,20,256
+Michal Kwiatkowski,12,186
+Dylan Teuns,10,95
+Sonny Colbrelli,8,216
+Warren Barguil,8,160
+Andrea Pasqualon,8,85
+Luka Mezgec,8,75
+Jasper De Buyst,8,60
+Jelle Vanendert,8,45
+Zdenek Stybar,8,36
+Benoit Cosnefroy,6,272
+Andrea Bagioli,6,176
+Dries Devenyns,6,146
+Anthony Turgis,6,130
+Alessandro Covi,6,120
+Dorian Godon,6,82
+Kristian Sbaragli,6,79
+Alessandro De Marchi,6,50
+Stan Dewulf,4,100
+Ide Schelling,4,90
+Arjen Livyns,4,80
+Omar Fraile,4,76
+Lucas Eriksson,4,65
+Clement Chevrier,4,48

@@ -1,0 +1,26 @@
+Names,Cost,Points
+Mathieu Van Der Poel,20,520
+Wout Van Aert,20,470
+Alexander Kristoff,12,300
+Oliver Naesen,12,200
+Sep Vanmarcke,12,84
+Yves Lampaert,10,240
+Tiesj Benoot,10,150
+Dylan Teuns,10,140
+Florian Senechal,10,130
+Kasper Asgreen,10,120
+Dylan Van Baarle,8,180
+John Degenkolb,8,160
+Valentin Madouas,8,110
+Alberto Bettiol,8,90
+Jasper De Buyst,8,78
+Nils Politt,8,72
+Anthony Turgis,6,260
+Dimitri Claeys,6,220
+Danny Van Poppel,6,120
+Gregor Muehlberger,6,120
+Xandro Meurisse,6,100
+Sven Erik Bystrom,6,86
+Samuele Battistella,6,60
+Gijs Van Hoecke,4,120
+Fabio Van Den Bossche,4,120
