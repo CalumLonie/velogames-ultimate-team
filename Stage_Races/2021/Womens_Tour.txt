@@ -1,0 +1,27 @@
+Names,Cost,Points
+Demi Vollering,20,803
+Amy Pieters,16,690
+Lorena Wiebes,16,595
+Elisa Balsamo,16,380
+Juliette Labous,14,532
+Marta Bastianelli,14,439
+Chantal Van Den Broeck-Blaak,14,308
+Chloe Hosking,12,550
+Elise Chabbey,12,406
+Alice Barnes,12,389
+Pfeiffer Georgi,12,328
+Sheyla Gutierrez,10,664
+Sarah Roy,10,293
+Christine Majerus,10,223
+Leah Kirchmann,8,411
+Sofia Bertizzolo,8,261
+Anna Shackley,8,244
+Joscelin Lowden,8,232
+Elena Cecchini,8,222
+Chiara Consonni,8,182
+Clara Copponi,6,805
+Aude Biannic,6,327
+Marjolein Van't Geloof,6,255
+Josie Nelson,6,140
+Hayley Simmonds,6,123
+Abi Smith,4,163

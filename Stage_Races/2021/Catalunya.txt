@@ -1,0 +1,28 @@
+Names,Cost,Points
+Joao Almeida,20,462
+Adam Yates,18,1028
+Geraint Thomas,16,681
+Richie Porte,14,647
+Alejandro Valverde,14,632
+Hugh Carthy,14,284
+Esteban Chaves,12,758
+Michael Woods,12,405
+Lennard Kaemna,12,364
+Rohan Dennis,12,338
+Sepp Kuss,12,319
+Lucas Hamilton,10,243
+Peter Sagan,10,216
+Matej Mohoric,8,310
+Dion Smith,8,261
+Luis Leon Sanchez,8,219
+Harm Vanhoucke,8,214
+Remi Cavagna,8,175
+Thomas De Gendt,6,300
+Andreas Kron,6,211
+Mikel Bizkarra,6,180
+Attila Valter,6,165
+Jonathan Castroviejo,6,140
+Alexander Kamp,4,159
+Remy Rochas,4,123
+Koen Bouwman,4,99
+Maxim Van Gils,4,85

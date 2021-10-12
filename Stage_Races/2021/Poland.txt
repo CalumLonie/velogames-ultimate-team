@@ -1,0 +1,29 @@
+Names,Cost,Points
+Joao Almeida,24,1125
+Diego Ulissi,20,635
+Matej Mohoric,14,890
+Jai Hindley,14,343
+Tim Wellens,14,316
+Michal Kwiatkowski,12,764
+Alvaro Hodeg,12,314
+Remi Cavagna,12,244
+Mikkel Honore,10,534
+Dylan Teuns,10,294
+Dion Smith,8,323
+Lorenzo Rota,8,278
+Jonas Rickaert,8,258
+Giovanni Aleotti,8,247
+Hugo Hofstetter,8,235
+Phil Bauhaus,6,402
+Ben Tulett,6,261
+Quinten Hermans,6,252
+Nikias Arndt,6,210
+Olav Kooij,6,180
+Julius Van Den Berg,6,170
+Biniam Ghirmay,6,155
+Pascal Eenkhoorn,6,150
+Stefano Oldani,6,135
+Lukasz Owsian,4,175
+Clement Berthet,4,137
+Daniel Arroyave,4,112
+Ian Garrison,4,94

@@ -1,0 +1,30 @@
+Names,Cost,Points
+Amaro Antunes,22,1123
+Joni Brandao,18,939
+Antonio Carvalho,18,598
+Frederico Figueiredo,16,816
+Mauricio Moreira,14,1345
+Luis Gomes,14,524
+Rafael Reis,12,1187
+Alejandro Marque,12,765
+Abner Gonzalez,10,540
+Henrique Casimiro,10,377
+Ricardo Mestre,10,307
+Ricardo Vilela,10,286
+Jose Felix Parra,8,482
+Diego Lopez,8,347
+Tiago Antunes,8,281
+Lluis Mas,6,461
+Kyle Murphy,6,430
+Ben King,6,364
+Juri Hollmann,6,300
+Tom Wirtgen,6,266
+Kenny Molly,6,260
+Mason Hollyman,6,259
+Bruno Silva,6,248
+Carlos Oyarzun,6,224
+Javier Moreno,4,383
+Alastair Mackellar,4,156
+Adrian Bustamante,4,128
+Nuno Meireles,4,128
+Carlos Salgueiro,4,116
