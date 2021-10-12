@@ -82,31 +82,31 @@ INSERT INTO output_w
 SELECT * FROM output_u;
 
 # Output the results into the output files. 
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_ar
     INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_AllRounder_Top.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_c
     INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Climber_Top.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_s
     INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Sprinter_Top.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_u
     INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Unclassified_Top.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_w
     INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Wildcard_Top.txt'

@@ -5,7 +5,7 @@ DELETE FROM input;
 DELETE FROM output;
 
 # Load the data.
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Giro_Donne.csv'
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Womens_Tour.csv'
 INTO TABLE input
 FIELDS TERMINATED BY ',' ENCLOSED BY ''
 LINES STARTING BY '' TERMINATED BY '\n'
@@ -24,9 +24,9 @@ WHERE points/cost < 20.0;
 CALL filtering(32, 9);
 
 # Output the results into the output file.
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output
-    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Giro_Donne.txt'
+    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Womens_Tour.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';

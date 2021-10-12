@@ -24,7 +24,7 @@ SELECT * FROM output_inter
 ORDER BY cost DESC, points DESC;
 
 # Output the results into the output file.
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output
     INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Liege_Bastogne_Liege.txt'

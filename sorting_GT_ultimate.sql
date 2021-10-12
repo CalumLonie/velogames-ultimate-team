@@ -13,22 +13,22 @@ DELETE FROM output_u;
 DELETE FROM output_w;
 
 # Load the data. 
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_AllRounder.csv'
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_AllRounder.csv'
 INTO TABLE input_ar
 FIELDS TERMINATED BY ',' ENCLOSED BY ''
 LINES STARTING BY '' TERMINATED BY '\n'
 IGNORE 1 ROWS;
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Climber.csv'
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_Climber.csv'
 INTO TABLE input_c
 FIELDS TERMINATED BY ',' ENCLOSED BY ''
 LINES STARTING BY '' TERMINATED BY '\n'
 IGNORE 1 ROWS;
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Sprinter.csv'
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_Sprinter.csv'
 INTO TABLE input_s
 FIELDS TERMINATED BY ',' ENCLOSED BY ''
 LINES STARTING BY '' TERMINATED BY '\n'
 IGNORE 1 ROWS;
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Unclassified.csv'
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_Unclassified.csv'
 INTO TABLE input_u
 FIELDS TERMINATED BY ',' ENCLOSED BY ''
 LINES STARTING BY '' TERMINATED BY '\n'
@@ -71,33 +71,33 @@ INSERT INTO output_w
 SELECT * FROM output_u;
 
 # Output the results into the output files. 
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_ar
-    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_AllRounder_Ultimate.txt'
+    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_AllRounder_Ultimate.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_c
-    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Climber_Ultimate.txt'
+    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_Climber_Ultimate.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_s
-    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Sprinter_Ultimate.txt'
+    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_Sprinter_Ultimate.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_u
-    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Unclassified_Ultimate.txt'
+    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_Unclassified_Ultimate.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
-SELECT 'Name', 'Cost', 'Points'
+SELECT 'Names', 'Cost', 'Points'
 UNION ALL
 	SELECT * FROM output_w
-    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/France_Wildcard_Ultimate.txt'
+    INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Spain_Wildcard_Ultimate.txt'
 	FIELDS TERMINATED BY ',' ENCLOSED BY ''
 	LINES STARTING BY '' TERMINATED BY '\n';
