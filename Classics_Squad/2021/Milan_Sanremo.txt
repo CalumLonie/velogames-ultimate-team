@@ -1,0 +1,26 @@
+Names,Cost,Points
+Wout Van Aert,20,300
+Mathieu Van Der Poel,20,240
+Julian Alaphilippe,20,90
+Peter Sagan,14,260
+Caleb Ewan,12,350
+Michael Matthews,12,220
+Max Schachmann,12,110
+Jasper Stuyven,10,400
+Alex Aranburu,10,200
+Matej Mohoric,10,140
+Matteo Trentin,10,130
+Greg Van Avermaet,10,120
+Tom Pidcock,10,100
+Michal Kwiatkowski,10,84
+Sonny Colbrelli,8,180
+Soren Kragh Andersen,8,160
+Giacomo Nizzolo,8,78
+Nicola Conci,6,180
+Anthony Turgis,6,150
+Nacer Bouhanni,6,72
+Filippo Tagliani,4,120
+Taco Van Der Hoorn,4,120
+Alessandro Tonelli,4,120
+Charles Planet,4,120
+Mathias Norsgaard,4,120

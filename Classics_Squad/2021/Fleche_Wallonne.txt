@@ -1,0 +1,26 @@
+Names,Cost,Points
+Julian Alaphilippe,20,250
+Jakob Fuglsang,16,70
+Primoz Roglic,14,220
+Alejandro Valverde,12,200
+Mike Woods,12,180
+Max Schachmann,12,110
+Warren Barguil,10,160
+Tom Pidcock,10,150
+Bauke Mollema,10,100
+Alex Aranburu,10,90
+David Gaudu,8,140
+Esteban Chaves,8,130
+Richard Carapaz,8,120
+Patrick Konrad,8,80
+Guillaume Martin,8,75
+Louis Vervaeke,6,108
+Sander Armee,6,108
+Simone Velasco,6,72
+Diego Rosa,6,72
+Maurits Lammertink,4,144
+Sylvain Moniquet,4,108
+Alex Howes,4,108
+Ben Tulett,4,95
+Quinten Hermans,4,85
+Julian Mertens,4,72

@@ -1,0 +1,26 @@
+Names,Cost,Points
+Sam Bennett,12,250
+Jasper Philipsen,10,220
+Pascal Ackermann,10,200
+Fernando Gaviria,10,85
+Florian Senechal,10,36
+Giacomo Nizzolo,8,180
+Cees Bol,8,140
+Elia Viviani,8,120
+Sonny Colbrelli,8,75
+Kristoffer Halvorsen,8,65
+Michael Morkov,6,166
+Timothy Dupont,6,160
+Hugo Hofstetter,6,150
+Stanislaw Aniolkowski,6,110
+Florian Vermeersch,6,80
+Dan McLay,6,70
+Matteo Moschetti,6,60
+Gijs Van Hoecke,6,55
+Bert Van Lerberghe,6,51
+Rick Zabel,6,40
+Clement Russo,4,100
+Lorrenzo Manzin,4,95
+Jeremy Lecroq,4,90
+Arne Marit,4,50
+Yevgeniy Gidich,4,45

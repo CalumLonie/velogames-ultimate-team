@@ -1,0 +1,26 @@
+Names,Cost,Points
+Julian Alaphilippe,20,410
+Tadej Pogacar,16,460
+Jakob Fuglsang,16,130
+Marc Hirschi,14,280
+Primoz Roglic,14,120
+Alejandro Valverde,12,320
+Mike Woods,12,300
+Max Schachmann,12,160
+Bauke Mollema,10,180
+Davide Formolo,10,150
+Matej Mohoric,10,150
+Michal Kwiatkowski,10,140
+Adam Yates,10,78
+David Gaudu,8,360
+Tiesj Benoot,8,200
+Esteban Chaves,8,110
+Guillaume Martin,8,100
+Loic Vliegen,6,120
+Lorenzo Rota,6,120
+Jack Haig,6,84
+Lauren Huys,4,120
+Aaron Van Poucke,4,120
+Mathijs Paasschens,4,120
+Sergei Chernetskii,4,120
+Tomasz Marczynski,4,120
