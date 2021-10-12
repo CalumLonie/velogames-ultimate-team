@@ -1,0 +1,32 @@
+The Ultimate Squad scored 1535 points.
+
+The team for Race1 was:
+Yves Lampaert
+Mitch Docker
+Jens Keukeleire
+Luke Durbridge
+Tiesj Benoot
+Tim Wellens
+Scoring 510 points.
+Costing 46 credits.
+
+The team for Race2 was:
+Yves Lampaert
+Mitch Docker
+Jens Keukeleire
+Luke Durbridge
+Tiesj Benoot
+Tim Wellens
+Scoring 500 points.
+Costing 46 credits.
+
+The team for Race3 was:
+Tiesj Benoot
+Tim Wellens
+Dan Martin
+Benoit Cosnefroy
+Marc Hirschi
+Tom Dumoulin
+Scoring 525 points.
+Costing 48 credits.
+

@@ -1,0 +1,7 @@
+Name,Cost,Points
+Sam Bennett, 10, 90
+Caleb Ewan, 8, 85
+Alvaro Hodeg, 4, 60
+Arnaud Démare, 6, 80
+Andre Greipel, 6, 60
+Giacomo Nizzolo, 6, 75

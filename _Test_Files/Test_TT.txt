@@ -1,0 +1,7 @@
+Name,Cost,Points
+Tom Dumoulin, 8, 90
+Filippo Ganna, 10, 100
+Ryan Mullen, 4, 75
+Alex Dowsett, 6, 80
+Victor Campenaerts, 8, 70
+Joao Almeida, 4, 90
