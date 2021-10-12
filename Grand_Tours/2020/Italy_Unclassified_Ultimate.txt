@@ -1,0 +1,11 @@
+Names,Cost,Points
+Ruben Guerreiro,8,841
+Andrea Vendrame,8,780
+Thomas De Gendt,8,685
+Filippo Ganna,6,1597
+Brandon McNulty,6,1018
+Josef Cerny,6,762
+Ben O'Connor,6,753
+Harm Vanhoucke,4,568
+Simon Pellaud,4,442
+Nico Denz,4,340

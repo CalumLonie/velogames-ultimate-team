@@ -1,0 +1,33 @@
+Names,Cost,Points
+Greg Van Avermaet,8,584
+Alexey Lutsenko,8,432
+Marc Hirschi,6,1010
+Soren Kragh Andersen,6,840
+Hugo Hofstetter,6,530
+Neilson Powless,6,499
+Nans Peters,6,412
+Toms Skujins,6,396
+Oliver Naesen,6,359
+Benoit Cosnefroy,6,352
+Alberto Bettiol,6,259
+Remi Cavagna,6,255
+Valentin Madouas,6,247
+Nicolas Roche,6,247
+Robert Gesink,6,246
+Tony Martin,6,226
+Amund Grondahl Jansen,6,224
+Kenny Elissonde,6,208
+Michael Morkov,6,205
+Nicolas Edet,6,188
+Jose Joaquin Rojas,6,174
+Luke Rowe,6,157
+Nikias Arndt,6,154
+Dario Cataldo,6,142
+Nelson Oliveira,6,142
+Carlos Verona,4,510
+Quentin Pacher,4,436
+Simon Geschke,4,335
+Hugo Houle,4,295
+Casper Pedersen,4,232
+Imanol Erviti,4,224
+Michael Gogl,4,158

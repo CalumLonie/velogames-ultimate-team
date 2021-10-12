@@ -1,0 +1,12 @@
+Names,Cost,Points
+Peter Sagan,16,1477
+Sam Bennett,14,1800
+Wout Van Aert,12,1464
+Caleb Ewan,12,965
+Bryan Cocquard,8,942
+Luka Mezgec,8,835
+Jasper Stuyven,8,787
+Matteo Trentin,8,777
+Alexander Kristoff,8,686
+Cees Bol,8,633
+Mads Pedersen,6,730

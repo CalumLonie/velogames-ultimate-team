@@ -1,0 +1,33 @@
+Names,Cost,Points
+Ruben Guerreiro,8,841
+Andrea Vendrame,8,780
+Thomas De Gendt,8,685
+Jhonatan Narvaez,8,461
+Simon Clarke,8,454
+Giovanni Visconti,8,426
+Lucas Hamilton,8,302
+Filippo Ganna,6,1597
+Brandon McNulty,6,1018
+Josef Cerny,6,762
+Ben O'Connor,6,753
+Mikkel Frolich Honore,6,722
+Jonathan Castroviejo,6,716
+Jan Tratnik,6,590
+Mikkel Bjerg,6,589
+Victor Campenaerts,6,517
+Salvatore Puccio,6,515
+Sergio Samitier,6,485
+Enrico Battaglin,6,479
+Jonathan Caicedo,6,437
+Joey Rosskopf,6,414
+Iljo Keisse,6,403
+Alex Dowsett,6,385
+Kilian Frankiny,6,368
+Pieter Serry,6,338
+Larry Warbasse,6,326
+Mark Padun,6,322
+Chad Haga,6,310
+Jacopo Mosca,6,307
+Harm Vanhoucke,4,568
+Simon Pellaud,4,442
+Nico Denz,4,340

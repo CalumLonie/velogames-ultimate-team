@@ -1,0 +1,6 @@
+Names,Cost,Points
+Wilco Kelderman,14,2174
+Joao Almeida,12,2966
+Tao Geoghegan Hart,10,2459
+Patrick Konrad,10,1386
+Rohan Dennis,10,1022

@@ -1,0 +1,1300 @@
+Team number 1:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15406 points.
+Costing 100 credits.
+
+Team number 2:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 15363 points.
+Costing 100 credits.
+
+Team number 3:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Mark Donovan
+Hugh Carthy
+Scoring 15343 points.
+Costing 100 credits.
+
+Team number 4:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Gino Maeder
+Hugh Carthy
+Scoring 15310 points.
+Costing 100 credits.
+
+Team number 5:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Gerben Thijssen
+Hugh Carthy
+Scoring 15298 points.
+Costing 100 credits.
+
+Team number 6:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15241 points.
+Costing 100 credits.
+
+Team number 7:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15236 points.
+Costing 98 credits.
+
+Team number 8:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Paul Martens
+Hugh Carthy
+Scoring 15225 points.
+Costing 100 credits.
+
+Team number 9:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Lennard Hofstede
+Hugh Carthy
+Scoring 15225 points.
+Costing 100 credits.
+
+Team number 10:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Robert Stannard
+Hugh Carthy
+Scoring 15214 points.
+Costing 100 credits.
+
+Team number 11:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Will Barta
+Hugh Carthy
+Scoring 15204 points.
+Costing 100 credits.
+
+Team number 12:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Nelson Oliveira
+Hugh Carthy
+Scoring 15203 points.
+Costing 100 credits.
+
+Team number 13:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Michael Storer
+Hugh Carthy
+Scoring 15200 points.
+Costing 100 credits.
+
+Team number 14:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 15198 points.
+Costing 100 credits.
+
+Team number 15:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 15193 points.
+Costing 98 credits.
+
+Team number 16:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Emmanuel Morin
+Hugh Carthy
+Scoring 15191 points.
+Costing 100 credits.
+
+Team number 17:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Mark Donovan
+Hugh Carthy
+Scoring 15178 points.
+Costing 100 credits.
+
+Team number 18:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Bruno Armirail
+Hugh Carthy
+Scoring 15175 points.
+Costing 100 credits.
+
+Team number 19:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Mark Donovan
+Hugh Carthy
+Scoring 15173 points.
+Costing 98 credits.
+
+Team number 20:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Jorge Arcas
+Hugh Carthy
+Scoring 15164 points.
+Costing 100 credits.
+
+Team number 21:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Fred Wright
+Hugh Carthy
+Scoring 15162 points.
+Costing 100 credits.
+
+Team number 22:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Imanol Erviti
+Hugh Carthy
+Scoring 15159 points.
+Costing 100 credits.
+
+Team number 23:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Gino Maeder
+Hugh Carthy
+Scoring 15145 points.
+Costing 100 credits.
+
+Team number 24:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Gino Maeder
+Hugh Carthy
+Scoring 15140 points.
+Costing 98 credits.
+
+Team number 25:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Jasha Suetterlin
+Hugh Carthy
+Scoring 15138 points.
+Costing 100 credits.
+
+Team number 26:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Gerben Thijssen
+Hugh Carthy
+Scoring 15133 points.
+Costing 100 credits.
+
+Team number 27:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Gerben Thijssen
+Hugh Carthy
+Scoring 15128 points.
+Costing 98 credits.
+
+Team number 28:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Robert Gesink
+Hugh Carthy
+Scoring 15120 points.
+Costing 100 credits.
+
+Team number 29:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15119 points.
+Costing 98 credits.
+
+Team number 30:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Max Kanter
+Thymen Arensman
+Hugh Carthy
+Scoring 15118 points.
+Costing 100 credits.
+
+Team number 31:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Dylan Van Baarle
+Hugh Carthy
+Scoring 15112 points.
+Costing 100 credits.
+
+Team number 32:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Dorian Godon
+Hugh Carthy
+Scoring 15107 points.
+Costing 100 credits.
+
+Team number 33:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Max Kanter
+Mark Donovan
+Hugh Carthy
+Scoring 15098 points.
+Costing 100 credits.
+
+Team number 34:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Robert Stannard
+Hugh Carthy
+Scoring 15097 points.
+Costing 100 credits.
+
+Team number 35:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Nelson Oliveira
+Hugh Carthy
+Scoring 15086 points.
+Costing 100 credits.
+
+Team number 36:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Jonas Vingegaard
+Hugh Carthy
+Scoring 15085 points.
+Costing 100 credits.
+
+Team number 37:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Michael Storer
+Hugh Carthy
+Scoring 15083 points.
+Costing 100 credits.
+
+Team number 38:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 15076 points.
+Costing 98 credits.
+
+Team number 39:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Max Kanter
+Gino Maeder
+Hugh Carthy
+Scoring 15065 points.
+Costing 100 credits.
+
+Team number 40:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15065 points.
+Costing 100 credits.
+
+Team number 41:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Jose Joaquin Rojas
+Hugh Carthy
+Scoring 15064 points.
+Costing 100 credits.
+
+Team number 42:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Paul Martens
+Hugh Carthy
+Scoring 15060 points.
+Costing 100 credits.
+
+Team number 43:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Lennard Hofstede
+Hugh Carthy
+Scoring 15060 points.
+Costing 100 credits.
+
+Team number 44:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15060 points.
+Costing 98 credits.
+
+Team number 45:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Mark Donovan
+Hugh Carthy
+Scoring 15056 points.
+Costing 98 credits.
+
+Team number 46:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Thymen Arensman
+Mark Donovan
+Hugh Carthy
+Scoring 15055 points.
+Costing 100 credits.
+
+Team number 47:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Paul Martens
+Hugh Carthy
+Scoring 15055 points.
+Costing 98 credits.
+
+Team number 48:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Lennard Hofstede
+Hugh Carthy
+Scoring 15055 points.
+Costing 98 credits.
+
+Team number 49:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Max Kanter
+Gerben Thijssen
+Hugh Carthy
+Scoring 15053 points.
+Costing 100 credits.
+
+Team number 50:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Alex Aranburu
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15041 points.
+Costing 100 credits.
+
+Team number 51:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Will Barta
+Hugh Carthy
+Scoring 15039 points.
+Costing 100 credits.
+
+Team number 52:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Robert Stannard
+Hugh Carthy
+Scoring 15038 points.
+Costing 100 credits.
+
+Team number 53:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Rui Costa
+Felix Grossschartner
+Max Kanter
+Hugh Carthy
+Scoring 15035 points.
+Costing 100 credits.
+
+Team number 54:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Will Barta
+Hugh Carthy
+Scoring 15034 points.
+Costing 98 credits.
+
+Team number 55:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Michael Valgren
+Hugh Carthy
+Scoring 15030 points.
+Costing 100 credits.
+
+Team number 56:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Zdenek Stybar
+Hugh Carthy
+Scoring 15029 points.
+Costing 100 credits.
+
+Team number 57:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Nelson Oliveira
+Hugh Carthy
+Scoring 15027 points.
+Costing 100 credits.
+
+Team number 58:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Emmanuel Morin
+Hugh Carthy
+Scoring 15026 points.
+Costing 100 credits.
+
+Team number 59:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Michael Storer
+Hugh Carthy
+Scoring 15024 points.
+Costing 100 credits.
+
+Team number 60:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Gino Maeder
+Hugh Carthy
+Scoring 15023 points.
+Costing 98 credits.
+
+Team number 61:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Thymen Arensman
+Gino Maeder
+Hugh Carthy
+Scoring 15022 points.
+Costing 100 credits.
+
+Team number 62:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 15022 points.
+Costing 100 credits.
+
+Team number 63:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Jasha Suetterlin
+Hugh Carthy
+Scoring 15021 points.
+Costing 100 credits.
+
+Team number 64:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Emmanuel Morin
+Hugh Carthy
+Scoring 15021 points.
+Costing 98 credits.
+
+Team number 65:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Robert Power
+Hugh Carthy
+Scoring 15017 points.
+Costing 100 credits.
+
+Team number 66:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Julien Simon
+Hugh Carthy
+Scoring 15017 points.
+Costing 100 credits.
+
+Team number 67:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 15017 points.
+Costing 98 credits.
+
+Team number 68:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Gerben Thijssen
+Hugh Carthy
+Scoring 15011 points.
+Costing 98 credits.
+
+Team number 69:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Thymen Arensman
+Gerben Thijssen
+Hugh Carthy
+Scoring 15010 points.
+Costing 100 credits.
+
+Team number 70:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Bruno Armirail
+Hugh Carthy
+Scoring 15010 points.
+Costing 100 credits.
+
+Team number 71:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Jannik Steimle
+Hugh Carthy
+Scoring 15008 points.
+Costing 100 credits.
+
+Team number 72:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Bruno Armirail
+Hugh Carthy
+Scoring 15005 points.
+Costing 98 credits.
+
+Team number 73:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Robert Gesink
+Hugh Carthy
+Scoring 15003 points.
+Costing 100 credits.
+
+Team number 74:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Mark Donovan
+Gino Maeder
+Hugh Carthy
+Scoring 15002 points.
+Costing 100 credits.
+
+Team number 75:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Mark Donovan
+Hugh Carthy
+Scoring 15002 points.
+Costing 100 credits.
+
+Team number 76:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Felix Grossschartner
+Robert Stannard
+Max Kanter
+Hugh Carthy
+Scoring 15000 points.
+Costing 100 credits.
+
+Team number 77:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Jorge Arcas
+Hugh Carthy
+Scoring 14999 points.
+Costing 100 credits.
+
+Team number 78:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Alex Aranburu
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 14998 points.
+Costing 100 credits.
+
+Team number 79:
+Primoz Roglic
+Alejandro Valverde
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Felix Grossschartner
+Max Kanter
+Thymen Arensman
+Hugh Carthy
+Scoring 14997 points.
+Costing 100 credits.
+
+Team number 80:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Fred Wright
+Hugh Carthy
+Scoring 14997 points.
+Costing 100 credits.
+
+Team number 81:
+Primoz Roglic
+David De La Cruz
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Mark Donovan
+Hugh Carthy
+Scoring 14997 points.
+Costing 98 credits.
+
+Team number 82:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Felix Grossschartner
+Robert Stannard
+Max Kanter
+Hugh Carthy
+Scoring 14995 points.
+Costing 98 credits.
+
+Team number 83:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Dylan Van Baarle
+Hugh Carthy
+Scoring 14995 points.
+Costing 100 credits.
+
+Team number 84:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Remi Cavagna
+Hugh Carthy
+Scoring 14995 points.
+Costing 100 credits.
+
+Team number 85:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Tim Wellens
+Felix Grossschartner
+Imanol Erviti
+Hugh Carthy
+Scoring 14994 points.
+Costing 100 credits.
+
+Team number 86:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Jorge Arcas
+Hugh Carthy
+Scoring 14994 points.
+Costing 98 credits.
+
+Team number 87:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Rui Costa
+Felix Grossschartner
+Thymen Arensman
+Hugh Carthy
+Scoring 14992 points.
+Costing 100 credits.
+
+Team number 88:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Fred Wright
+Hugh Carthy
+Scoring 14992 points.
+Costing 98 credits.
+
+Team number 89:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Mark Donovan
+Gerben Thijssen
+Hugh Carthy
+Scoring 14990 points.
+Costing 100 credits.
+
+Team number 90:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Tim Wellens
+Felix Grossschartner
+Dorian Godon
+Hugh Carthy
+Scoring 14990 points.
+Costing 100 credits.
+
+Team number 91:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Felix Grossschartner
+Nelson Oliveira
+Max Kanter
+Hugh Carthy
+Scoring 14989 points.
+Costing 100 credits.
+
+Team number 92:
+Primoz Roglic
+Wout Poels
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Tim Wellens
+Felix Grossschartner
+Imanol Erviti
+Hugh Carthy
+Scoring 14989 points.
+Costing 98 credits.
+
+Team number 93:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Felix Grossschartner
+Michael Storer
+Max Kanter
+Hugh Carthy
+Scoring 14986 points.
+Costing 100 credits.
+
+Team number 94:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Felix Grossschartner
+Nelson Oliveira
+Max Kanter
+Hugh Carthy
+Scoring 14984 points.
+Costing 98 credits.
+
+Team number 95:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Felix Grossschartner
+Michael Storer
+Max Kanter
+Hugh Carthy
+Scoring 14981 points.
+Costing 98 credits.
+
+Team number 96:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Max Kanter
+Paul Martens
+Hugh Carthy
+Scoring 14980 points.
+Costing 100 credits.
+
+Team number 97:
+Primoz Roglic
+Enric Mas
+Richard Carapaz
+Dan Martin
+Magnus Cort
+Felix Grossschartner
+Max Kanter
+Lennard Hofstede
+Hugh Carthy
+Scoring 14980 points.
+Costing 100 credits.
+
+Team number 98:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Pascal Ackermann
+Felix Grossschartner
+Max Kanter
+Thymen Arensman
+Hugh Carthy
+Scoring 14979 points.
+Costing 98 credits.
+
+Team number 99:
+Primoz Roglic
+Marc Soler
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Alex Aranburu
+Felix Grossschartner
+Mark Donovan
+Hugh Carthy
+Scoring 14978 points.
+Costing 100 credits.
+
+Team number 100:
+Primoz Roglic
+Alejandro Valverde
+Richard Carapaz
+Dan Martin
+Jasper Philipsen
+Felix Grossschartner
+Max Kanter
+Mark Donovan
+Hugh Carthy
+Scoring 14977 points.
+Costing 100 credits.
+

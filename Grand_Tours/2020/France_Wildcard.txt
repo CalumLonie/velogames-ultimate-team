@@ -1,0 +1,42 @@
+Names,Cost,Points
+Primoz Roglic,24,2529
+Tom Dumoulin,18,1128
+Richie Porte,10,1460
+Enric Mas,10,1077
+Rigoberto Uran,8,876
+Bauke Mollema,8,509
+Max Schachmann,8,464
+Michal Kwiatkowski,6,455
+Marc Soler,6,399
+Tiesj Benoot,6,194
+Julian Alaphilippe,18,986
+Tadej Pogacar,16,2882
+Richard Carapaz,16,1145
+Miguel Angel Lopez,14,1316
+Mikel Landa,14,1164
+Adam Yates,12,1196
+Guillaume Martin,10,877
+Sepp Kuss,10,703
+Lennard Kaemna,10,570
+Warren Barguil,8,422
+Damiano Caruso,6,622
+Pierre Rolland,6,588
+Jesus Herrada,6,435
+Peter Sagan,16,1477
+Sam Bennett,14,1800
+Wout Van Aert,12,1464
+Caleb Ewan,12,965
+Bryan Cocquard,8,942
+Luka Mezgec,8,835
+Mads Pedersen,6,730
+Clement Venturini,6,406
+Greg Van Avermaet,8,584
+Alexey Lutsenko,8,432
+Marc Hirschi,6,1010
+Soren Kragh Andersen,6,840
+Hugo Hofstetter,6,530
+Neilson Powless,6,499
+Carlos Verona,4,510
+Quentin Pacher,4,436
+Simon Geschke,4,335
+Hugo Houle,4,295

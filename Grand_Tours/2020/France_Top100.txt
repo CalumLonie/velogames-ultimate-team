@@ -1,0 +1,1300 @@
+Team number 1:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Bryan Cocquard
+Scoring 13169 points.
+Costing 100 credits.
+
+Team number 2:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Wout Van Aert
+Scoring 13137 points.
+Costing 100 credits.
+
+Team number 3:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Wout Van Aert
+Scoring 13117 points.
+Costing 98 credits.
+
+Team number 4:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Neilson Powless
+Wout Van Aert
+Scoring 13106 points.
+Costing 100 credits.
+
+Team number 5:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Rigoberto Uran
+Scoring 13103 points.
+Costing 100 credits.
+
+Team number 6:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Wout Van Aert
+Scoring 13103 points.
+Costing 100 credits.
+
+Team number 7:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Bryan Cocquard
+Scoring 13095 points.
+Costing 100 credits.
+
+Team number 8:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Wout Van Aert
+Scoring 13083 points.
+Costing 98 credits.
+
+Team number 9:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Mads Pedersen
+Scoring 13077 points.
+Costing 100 credits.
+
+Team number 10:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Neilson Powless
+Wout Van Aert
+Scoring 13072 points.
+Costing 100 credits.
+
+Team number 11:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Luka Mezgec
+Scoring 13062 points.
+Costing 100 credits.
+
+Team number 12:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Wout Van Aert
+Scoring 13043 points.
+Costing 98 credits.
+
+Team number 13:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Rigoberto Uran
+Scoring 13029 points.
+Costing 100 credits.
+
+Team number 14:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Nans Peters
+Wout Van Aert
+Scoring 13019 points.
+Costing 100 credits.
+
+Team number 15:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Jasper Stuyven
+Scoring 13014 points.
+Costing 100 credits.
+
+Team number 16:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Wout Van Aert
+Scoring 13009 points.
+Costing 98 credits.
+
+Team number 17:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Matteo Trentin
+Scoring 13004 points.
+Costing 100 credits.
+
+Team number 18:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Mads Pedersen
+Scoring 13003 points.
+Costing 100 credits.
+
+Team number 19:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Toms Skujins
+Wout Van Aert
+Scoring 13003 points.
+Costing 100 credits.
+
+Team number 20:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Simon Geschke
+Bryan Cocquard
+Scoring 12994 points.
+Costing 100 credits.
+
+Team number 21:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Luka Mezgec
+Scoring 12988 points.
+Costing 100 credits.
+
+Team number 22:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Guillaume Martin
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Enric Mas
+Scoring 12985 points.
+Costing 100 credits.
+
+Team number 23:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Nans Peters
+Wout Van Aert
+Scoring 12985 points.
+Costing 100 credits.
+
+Team number 24:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Mads Pedersen
+Scoring 12977 points.
+Costing 100 credits.
+
+Team number 25:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Damiano Caruso
+Scoring 12969 points.
+Costing 100 credits.
+
+Team number 26:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Toms Skujins
+Wout Van Aert
+Scoring 12969 points.
+Costing 100 credits.
+
+Team number 27:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Enric Mas
+Scoring 12968 points.
+Costing 100 credits.
+
+Team number 28:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Guillaume Martin
+Sam Bennett
+Marc Hirschi
+Carlos Verona
+Quentin Pacher
+Wout Van Aert
+Scoring 12968 points.
+Costing 100 credits.
+
+Team number 29:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Oliver Naesen
+Wout Van Aert
+Scoring 12966 points.
+Costing 100 credits.
+
+Team number 30:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Benoit Cosnefroy
+Wout Van Aert
+Scoring 12959 points.
+Costing 100 credits.
+
+Team number 31:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Mads Pedersen
+Scoring 12957 points.
+Costing 98 credits.
+
+Team number 32:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Houle
+Bryan Cocquard
+Scoring 12954 points.
+Costing 100 credits.
+
+Team number 33:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Bryan Cocquard
+Scoring 12953 points.
+Costing 100 credits.
+
+Team number 34:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Jesus Herrada
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Wout Van Aert
+Scoring 12950 points.
+Costing 100 credits.
+
+Team number 35:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Neilson Powless
+Mads Pedersen
+Scoring 12946 points.
+Costing 100 credits.
+
+Team number 36:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Simon Geschke
+Wout Van Aert
+Scoring 12942 points.
+Costing 98 credits.
+
+Team number 37:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Jasper Stuyven
+Scoring 12940 points.
+Costing 100 credits.
+
+Team number 38:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Pierre Rolland
+Scoring 12935 points.
+Costing 100 credits.
+
+Team number 39:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Oliver Naesen
+Wout Van Aert
+Scoring 12932 points.
+Costing 100 credits.
+
+Team number 40:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Matteo Trentin
+Scoring 12930 points.
+Costing 100 credits.
+
+Team number 41:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Jesus Herrada
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Wout Van Aert
+Scoring 12930 points.
+Costing 98 credits.
+
+Team number 42:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Simon Geschke
+Rigoberto Uran
+Scoring 12928 points.
+Costing 100 credits.
+
+Team number 43:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Mikel Landa
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Mads Pedersen
+Scoring 12925 points.
+Costing 100 credits.
+
+Team number 44:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Benoit Cosnefroy
+Wout Van Aert
+Scoring 12925 points.
+Costing 100 credits.
+
+Team number 45:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Jesus Herrada
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Neilson Powless
+Wout Van Aert
+Scoring 12919 points.
+Costing 100 credits.
+
+Team number 46:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Warren Barguil
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Wout Van Aert
+Scoring 12917 points.
+Costing 100 credits.
+
+Team number 47:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Alexander Kristoff
+Scoring 12913 points.
+Costing 100 credits.
+
+Team number 48:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Guillaume Martin
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Enric Mas
+Scoring 12911 points.
+Costing 100 credits.
+
+Team number 49:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Simon Geschke
+Wout Van Aert
+Scoring 12908 points.
+Costing 98 credits.
+
+Team number 50:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Simon Geschke
+Mads Pedersen
+Scoring 12902 points.
+Costing 100 credits.
+
+Team number 51:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Houle
+Wout Van Aert
+Scoring 12902 points.
+Costing 98 credits.
+
+Team number 52:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Carlos Verona
+Quentin Pacher
+Enric Mas
+Scoring 12900 points.
+Costing 100 credits.
+
+Team number 53:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Damiano Caruso
+Scoring 12895 points.
+Costing 100 credits.
+
+Team number 54:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Enric Mas
+Scoring 12894 points.
+Costing 100 credits.
+
+Team number 55:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Casper Pedersen
+Bryan Cocquard
+Scoring 12891 points.
+Costing 100 credits.
+
+Team number 56:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Houle
+Rigoberto Uran
+Scoring 12888 points.
+Costing 100 credits.
+
+Team number 57:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Rigoberto Uran
+Scoring 12887 points.
+Costing 100 credits.
+
+Team number 58:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Simon Geschke
+Luka Mezgec
+Scoring 12887 points.
+Costing 100 credits.
+
+Team number 59:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Carlos Verona
+Quentin Pacher
+Bryan Cocquard
+Scoring 12885 points.
+Costing 100 credits.
+
+Team number 60:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Mads Pedersen
+Scoring 12883 points.
+Costing 98 credits.
+
+Team number 61:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Imanol Erviti
+Bryan Cocquard
+Scoring 12883 points.
+Costing 100 credits.
+
+Team number 62:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Bryan Cocquard
+Scoring 12879 points.
+Costing 100 credits.
+
+Team number 63:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Carlos Verona
+Scoring 12877 points.
+Costing 100 credits.
+
+Team number 64:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Guillaume Martin
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Bryan Cocquard
+Scoring 12870 points.
+Costing 100 credits.
+
+Team number 65:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Damiano Caruso
+Scoring 12869 points.
+Costing 100 credits.
+
+Team number 66:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Houle
+Wout Van Aert
+Scoring 12868 points.
+Costing 98 credits.
+
+Team number 67:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Guillaume Martin
+Sam Bennett
+Marc Hirschi
+Carlos Verona
+Simon Geschke
+Wout Van Aert
+Scoring 12867 points.
+Costing 100 credits.
+
+Team number 68:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Alberto Bettiol
+Wout Van Aert
+Scoring 12866 points.
+Costing 100 credits.
+
+Team number 69:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Houle
+Mads Pedersen
+Scoring 12862 points.
+Costing 100 credits.
+
+Team number 70:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Remi Cavagna
+Wout Van Aert
+Scoring 12862 points.
+Costing 100 credits.
+
+Team number 71:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Pierre Rolland
+Scoring 12861 points.
+Costing 100 credits.
+
+Team number 72:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Greg Van Avermaet
+Marc Hirschi
+Carlos Verona
+Wout Van Aert
+Scoring 12861 points.
+Costing 100 credits.
+
+Team number 73:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Cees Bol
+Scoring 12860 points.
+Costing 100 credits.
+
+Team number 74:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Nans Peters
+Mads Pedersen
+Scoring 12859 points.
+Costing 100 credits.
+
+Team number 75:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Hugo Hofstetter
+Carlos Verona
+Bryan Cocquard
+Scoring 12859 points.
+Costing 100 credits.
+
+Team number 76:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Sebastien Reichenbach
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Wout Van Aert
+Scoring 12857 points.
+Costing 100 credits.
+
+Team number 77:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Jesus Herrada
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Wout Van Aert
+Scoring 12856 points.
+Costing 98 credits.
+
+Team number 78:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Valentin Madouas
+Wout Van Aert
+Scoring 12854 points.
+Costing 100 credits.
+
+Team number 79:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Nicolas Roche
+Wout Van Aert
+Scoring 12854 points.
+Costing 100 credits.
+
+Team number 80:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Bryan Cocquard
+Scoring 12853 points.
+Costing 100 credits.
+
+Team number 81:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Robert Gesink
+Wout Van Aert
+Scoring 12853 points.
+Costing 100 credits.
+
+Team number 82:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Mikel Landa
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Mads Pedersen
+Scoring 12851 points.
+Costing 100 credits.
+
+Team number 83:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Guillaume Martin
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Bryan Cocquard
+Scoring 12850 points.
+Costing 98 credits.
+
+Team number 84:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Damiano Caruso
+Scoring 12849 points.
+Costing 98 credits.
+
+Team number 85:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Houle
+Luka Mezgec
+Scoring 12847 points.
+Costing 100 credits.
+
+Team number 86:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Neilson Powless
+Carlos Verona
+Scoring 12846 points.
+Costing 100 credits.
+
+Team number 87:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Miguel Angel Lopez
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Luka Mezgec
+Scoring 12846 points.
+Costing 100 credits.
+
+Team number 88:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Toms Skujins
+Mads Pedersen
+Scoring 12843 points.
+Costing 100 credits.
+
+Team number 89:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Warren Barguil
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Wout Van Aert
+Scoring 12843 points.
+Costing 100 credits.
+
+Team number 90:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Quentin Pacher
+Alexander Kristoff
+Scoring 12839 points.
+Costing 100 credits.
+
+Team number 91:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Simon Geschke
+Jasper Stuyven
+Scoring 12839 points.
+Costing 100 credits.
+
+Team number 92:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Guillaume Martin
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Neilson Powless
+Bryan Cocquard
+Scoring 12839 points.
+Costing 100 credits.
+
+Team number 93:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Casper Pedersen
+Wout Van Aert
+Scoring 12839 points.
+Costing 98 credits.
+
+Team number 94:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Neilson Powless
+Damiano Caruso
+Scoring 12838 points.
+Costing 100 credits.
+
+Team number 95:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Sebastien Reichenbach
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Wout Van Aert
+Scoring 12837 points.
+Costing 98 credits.
+
+Team number 96:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Hugo Hofstetter
+Pierre Rolland
+Scoring 12835 points.
+Costing 100 credits.
+
+Team number 97:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Adam Yates
+Wout Van Aert
+Marc Hirschi
+Soren Kragh Andersen
+Carlos Verona
+Bryan Cocquard
+Scoring 12833 points.
+Costing 98 credits.
+
+Team number 98:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Damiano Caruso
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Tony Martin
+Wout Van Aert
+Scoring 12833 points.
+Costing 100 credits.
+
+Team number 99:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Pierre Rolland
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Alberto Bettiol
+Wout Van Aert
+Scoring 12832 points.
+Costing 100 credits.
+
+Team number 100:
+Primoz Roglic
+Richie Porte
+Tadej Pogacar
+Jesus Herrada
+Sam Bennett
+Marc Hirschi
+Soren Kragh Andersen
+Nans Peters
+Wout Van Aert
+Scoring 12832 points.
+Costing 100 credits.
+

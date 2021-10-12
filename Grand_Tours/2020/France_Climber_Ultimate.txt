@@ -1,0 +1,8 @@
+Names,Cost,Points
+Tadej Pogacar,16,2882
+Miguel Angel Lopez,14,1316
+Mikel Landa,14,1164
+Adam Yates,12,1196
+Guillaume Martin,10,877
+Damiano Caruso,6,622
+Pierre Rolland,6,588
