@@ -1,0 +1,24 @@
+Names,Cost,Points
+Remco Evenepoel,22,594
+Jakob Fuglsang,18,520
+Rafal Majka,16,385
+Simon Yates,16,373
+Diego Ulissi,14,511
+Jasper Philipsen,14,347
+Wilco Kelderman,14,335
+Luka Mezgec,12,395
+Rudy Molard,10,207
+Davide Ballerini,8,324
+Ryan Gibbons,8,310
+Mikel Nieve,8,238
+Jonas Vingegaard,8,193
+Rudy Barbier,8,165
+Kamil Malecki,6,382
+Szymon Sajnok,6,247
+Alberto Dainese,6,229
+Patrick Stosz,6,186
+Kamil Gradek,4,157
+James Whelan,4,108
+Albert Torres,4,100
+Quinn Simmons,4,92
+Tobias Foss,4,80

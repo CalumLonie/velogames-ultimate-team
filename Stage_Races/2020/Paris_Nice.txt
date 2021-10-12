@@ -1,0 +1,29 @@
+Names,Cost,Points
+Julian Alaphilippe,18,433
+Nairo Quintana,18,412
+Thibaut Pinot,18,409
+Vincenzo Nibali,16,499
+Peter Sagan,16,347
+Max Schachmann,14,1051
+Michael Matthews,14,349
+Sergio Higuita,12,684
+Tiesj Benoot,10,967
+Felix Grossschartner,10,405
+Jasper Stuyven,10,302
+Dylan Teuns,10,217
+Guillaume Martin,10,211
+Giacomo Nizzolo,8,396
+Rudy Molard,8,307
+Ivan Garcia Cortina,8,292
+Nils Politt,8,263
+Thomas De Gendt,8,230
+Andrea Pasqualon,8,180
+Nacer Bouhanni,8,179
+Soren Kragh Andersen,6,467
+Cees Bol,6,270
+Tanel Kangert,6,256
+Nicolas Edet,6,152
+Fabien Doubey,6,125
+Mads Wuertz Schmidt,4,183
+Olivier Le Gac,4,93
+Nico Denz,4,84
