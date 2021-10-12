@@ -1,9 +1,0 @@
-Name,Cost,Points
-Wout Van Aert,16,1824
-Matthieu Van Der Poel,12,928
-Michael Matthews,10,1230
-Sonny Colbrelli,10,1069
-Mark Cavendish,8,1510
-Jasper Philipsen,8,1261
-Nacer Bouhanni,8,727
-Andre Greipel,6,497

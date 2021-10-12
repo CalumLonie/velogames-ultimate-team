@@ -1,6 +1,0 @@
-Name,Cost,Points
-Peter Sagan,16,1486
-Arnaud Demare,12,1363
-Davide Ballerini,8,734
-Ben Swift,6,840
-Alvaro Hodeg,6,558

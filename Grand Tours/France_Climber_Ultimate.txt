@@ -1,4 +1,0 @@
-Name,Cost,Points
-Richard Carapaz,16,1524
-David Gaudu,10,867
-Sergio Higuita,8,737

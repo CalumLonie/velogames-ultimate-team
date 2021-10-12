@@ -1,9 +1,0 @@
-Name,Cost,Points
-Rafal Majka,14,1039
-Pello Bilbao,10,1481
-Fausto Masnada,10,946
-Domenico Pozzovivo,10,871
-James Knox,8,629
-Jai Hindley,6,2106
-Hermann Pernsteiner,6,818
-Matthew Holmes,6,321

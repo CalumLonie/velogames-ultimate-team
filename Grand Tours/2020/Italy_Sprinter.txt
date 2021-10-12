@@ -1,8 +1,0 @@
-Name,Cost,Points
-Peter Sagan,16,1486
-Michael Matthews,14,771
-Arnaud Demare,12,1363
-Davide Ballerini,8,734
-Elia Viviani,8,310
-Ben Swift,6,840
-Alvaro Hodeg,6,558

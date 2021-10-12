@@ -1,6 +1,0 @@
-Name,Cost,Points
-Richard Carapaz,16,1524
-Julian Alaphilippe,16,1073
-David Gaudu,10,867
-Guillaume Martin,10,791
-Sergio Higuita,8,737

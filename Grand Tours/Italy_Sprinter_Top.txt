@@ -1,5 +1,0 @@
-Name,Cost,Points
-Fernando Gaviria,10,923
-Elia Viviani,10,793
-Davide Cimolai,8,1017
-Stefano Oldani,6,463
