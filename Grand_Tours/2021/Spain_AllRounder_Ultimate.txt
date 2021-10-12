@@ -1,0 +1,7 @@
+Names,Cost,Points
+Primoz Roglic,26,3403
+Adam Yates,16,1611
+Enric Mas,12,2267
+Steven Kruijswijk,8,819
+Felix Grossschartner,6,1031
+David De La Cruz,6,897

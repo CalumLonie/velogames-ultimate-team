@@ -1,0 +1,1300 @@
+Team number 1:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Mark Cavendish
+Scoring 13263 points.
+Costing 98 credits.
+
+Team number 2:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Mark Cavendish
+Scoring 13244 points.
+Costing 100 credits.
+
+Team number 3:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Mark Cavendish
+Scoring 13187 points.
+Costing 98 credits.
+
+Team number 4:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Kueng
+Mark Cavendish
+Scoring 13170 points.
+Costing 100 credits.
+
+Team number 5:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Mark Cavendish
+Scoring 13168 points.
+Costing 100 credits.
+
+Team number 6:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Magnus Cort
+Mark Cavendish
+Scoring 13165 points.
+Costing 100 credits.
+
+Team number 7:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Mark Cavendish
+Scoring 13133 points.
+Costing 96 credits.
+
+Team number 8:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Mark Cavendish
+Scoring 13114 points.
+Costing 98 credits.
+
+Team number 9:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Kueng
+Mark Cavendish
+Scoring 13094 points.
+Costing 100 credits.
+
+Team number 10:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Magnus Cort
+Mark Cavendish
+Scoring 13089 points.
+Costing 100 credits.
+
+Team number 11:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Nils Politt
+Mark Cavendish
+Scoring 13088 points.
+Costing 98 credits.
+
+Team number 12:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Michael Morkov
+Mark Cavendish
+Scoring 13083 points.
+Costing 98 credits.
+
+Team number 13:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Kueng
+Mark Cavendish
+Scoring 13040 points.
+Costing 98 credits.
+
+Team number 14:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Magnus Cort
+Mark Cavendish
+Scoring 13035 points.
+Costing 98 credits.
+
+Team number 15:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Mike Teunissen
+Mark Cavendish
+Scoring 13015 points.
+Costing 100 credits.
+
+Team number 16:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jasper Philipsen
+Scoring 13014 points.
+Costing 98 credits.
+
+Team number 17:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Nils Politt
+Mark Cavendish
+Scoring 13012 points.
+Costing 98 credits.
+
+Team number 18:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Michael Morkov
+Mark Cavendish
+Scoring 13007 points.
+Costing 98 credits.
+
+Team number 19:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Jasper Philipsen
+Scoring 12995 points.
+Costing 100 credits.
+
+Team number 20:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Bissegger
+Mark Cavendish
+Scoring 12993 points.
+Costing 100 credits.
+
+Team number 21:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Louis Meintjes
+Mark Cavendish
+Scoring 12991 points.
+Costing 100 credits.
+
+Team number 22:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Michael Matthews
+Scoring 12983 points.
+Costing 100 credits.
+
+Team number 23:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Kasper Asgreen
+Franck Bonnamour
+Mark Cavendish
+Scoring 12967 points.
+Costing 98 credits.
+
+Team number 24:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Fred Wright
+Mark Cavendish
+Scoring 12959 points.
+Costing 98 credits.
+
+Team number 25:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Nils Politt
+Mark Cavendish
+Scoring 12958 points.
+Costing 96 credits.
+
+Team number 26:
+Tadej Pogacar
+Wilco Kelderman
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jonas Vingegaard
+Scoring 12954 points.
+Costing 100 credits.
+
+Team number 27:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Michael Morkov
+Mark Cavendish
+Scoring 12953 points.
+Costing 96 credits.
+
+Team number 28:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Mikkel Bjerg
+Mark Cavendish
+Scoring 12951 points.
+Costing 100 credits.
+
+Team number 29:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Ben O'Connor
+Scoring 12940 points.
+Costing 98 credits.
+
+Team number 30:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Mike Teunissen
+Mark Cavendish
+Scoring 12939 points.
+Costing 100 credits.
+
+Team number 31:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jasper Philipsen
+Scoring 12938 points.
+Costing 98 credits.
+
+Team number 32:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Brent Van Moer
+Mark Cavendish
+Scoring 12925 points.
+Costing 98 credits.
+
+Team number 33:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Ben O'Connor
+Scoring 12921 points.
+Costing 100 credits.
+
+Team number 34:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Kueng
+Jasper Philipsen
+Scoring 12921 points.
+Costing 100 credits.
+
+Team number 35:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Jasper Philipsen
+Scoring 12919 points.
+Costing 100 credits.
+
+Team number 36:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Harry Sweeny
+Mark Cavendish
+Scoring 12918 points.
+Costing 98 credits.
+
+Team number 37:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Bissegger
+Mark Cavendish
+Scoring 12917 points.
+Costing 100 credits.
+
+Team number 38:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Magnus Cort
+Jasper Philipsen
+Scoring 12916 points.
+Costing 100 credits.
+
+Team number 39:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Pierre-Luc Perichon
+Mark Cavendish
+Scoring 12915 points.
+Costing 98 credits.
+
+Team number 40:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Louis Meintjes
+Mark Cavendish
+Scoring 12915 points.
+Costing 100 credits.
+
+Team number 41:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Imanol Erviti
+Mark Cavendish
+Scoring 12912 points.
+Costing 98 credits.
+
+Team number 42:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Michael Matthews
+Scoring 12907 points.
+Costing 100 credits.
+
+Team number 43:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Julian Alaphilippe
+Mark Cavendish
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jasper Philipsen
+Scoring 12906 points.
+Costing 96 credits.
+
+Team number 44:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Anthony Perez
+Mark Cavendish
+Scoring 12899 points.
+Costing 98 credits.
+
+Team number 45:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Stefan Kueng
+Franck Bonnamour
+Mark Cavendish
+Scoring 12893 points.
+Costing 98 credits.
+
+Team number 46:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Kasper Asgreen
+Franck Bonnamour
+Mark Cavendish
+Scoring 12891 points.
+Costing 98 credits.
+
+Team number 47:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Magnus Cort
+Franck Bonnamour
+Mark Cavendish
+Scoring 12888 points.
+Costing 98 credits.
+
+Team number 48:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Julian Alaphilippe
+Mark Cavendish
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Jasper Philipsen
+Scoring 12887 points.
+Costing 98 credits.
+
+Team number 49:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Mike Teunissen
+Mark Cavendish
+Scoring 12885 points.
+Costing 98 credits.
+
+Team number 50:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jasper Philipsen
+Scoring 12884 points.
+Costing 96 credits.
+
+Team number 51:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Fred Wright
+Mark Cavendish
+Scoring 12883 points.
+Costing 98 credits.
+
+Team number 52:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Marco Haller
+Mark Cavendish
+Scoring 12882 points.
+Costing 98 credits.
+
+Team number 53:
+Tadej Pogacar
+Wilco Kelderman
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jonas Vingegaard
+Scoring 12878 points.
+Costing 100 credits.
+
+Team number 54:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Matej Mohoric
+Kasper Asgreen
+Franck Bonnamour
+Mark Cavendish
+Scoring 12878 points.
+Costing 98 credits.
+
+Team number 55:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Michael Valgren
+Mark Cavendish
+Scoring 12877 points.
+Costing 100 credits.
+
+Team number 56:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Julian Alaphilippe
+Michael Matthews
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Mark Cavendish
+Scoring 12875 points.
+Costing 98 credits.
+
+Team number 57:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Mikkel Bjerg
+Mark Cavendish
+Scoring 12875 points.
+Costing 100 credits.
+
+Team number 58:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Xandro Meurisse
+Mark Cavendish
+Scoring 12874 points.
+Costing 100 credits.
+
+Team number 59:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Kasper Asgreen
+Stefan Kueng
+Mark Cavendish
+Scoring 12874 points.
+Costing 100 credits.
+
+Team number 60:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Kasper Asgreen
+Magnus Cort
+Mark Cavendish
+Scoring 12869 points.
+Costing 100 credits.
+
+Team number 61:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Toms Skujins
+Mark Cavendish
+Scoring 12865 points.
+Costing 100 credits.
+
+Team number 62:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Jasper Philipsen
+Scoring 12865 points.
+Costing 98 credits.
+
+Team number 63:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Ide Schelling
+Mark Cavendish
+Scoring 12864 points.
+Costing 100 credits.
+
+Team number 64:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Ben O'Connor
+Scoring 12864 points.
+Costing 98 credits.
+
+Team number 65:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Bissegger
+Mark Cavendish
+Scoring 12863 points.
+Costing 98 credits.
+
+Team number 66:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Cyril Barthe
+Mark Cavendish
+Scoring 12862 points.
+Costing 98 credits.
+
+Team number 67:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Louis Meintjes
+Mark Cavendish
+Scoring 12861 points.
+Costing 98 credits.
+
+Team number 68:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Julian Alaphilippe
+Michael Matthews
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Mark Cavendish
+Scoring 12856 points.
+Costing 100 credits.
+
+Team number 69:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Michael Matthews
+Scoring 12853 points.
+Costing 98 credits.
+
+Team number 70:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Brent Van Moer
+Mark Cavendish
+Scoring 12849 points.
+Costing 98 credits.
+
+Team number 71:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Kueng
+Ben O'Connor
+Scoring 12847 points.
+Costing 100 credits.
+
+Team number 72:
+Tadej Pogacar
+Wilco Kelderman
+Richard Carapaz
+Julian Alaphilippe
+Mark Cavendish
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jonas Vingegaard
+Scoring 12846 points.
+Costing 98 credits.
+
+Team number 73:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Ben O'Connor
+Scoring 12845 points.
+Costing 100 credits.
+
+Team number 74:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Stefan Kueng
+Jasper Philipsen
+Scoring 12845 points.
+Costing 100 credits.
+
+Team number 75:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Omar Fraile
+Mark Cavendish
+Scoring 12844 points.
+Costing 100 credits.
+
+Team number 76:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Magnus Cort
+Ben O'Connor
+Scoring 12842 points.
+Costing 100 credits.
+
+Team number 77:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Jan Bakelants
+Mark Cavendish
+Scoring 12842 points.
+Costing 100 credits.
+
+Team number 78:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Harry Sweeny
+Mark Cavendish
+Scoring 12842 points.
+Costing 98 credits.
+
+Team number 79:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Neilson Powless
+Mark Cavendish
+Scoring 12841 points.
+Costing 100 credits.
+
+Team number 80:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Magnus Cort
+Jasper Philipsen
+Scoring 12840 points.
+Costing 100 credits.
+
+Team number 81:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Dorian Godon
+Mark Cavendish
+Scoring 12839 points.
+Costing 100 credits.
+
+Team number 82:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Nils Politt
+Jasper Philipsen
+Scoring 12839 points.
+Costing 98 credits.
+
+Team number 83:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Pierre-Luc Perichon
+Mark Cavendish
+Scoring 12839 points.
+Costing 98 credits.
+
+Team number 84:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Kasper Asgreen
+Franck Bonnamour
+Mark Cavendish
+Scoring 12837 points.
+Costing 96 credits.
+
+Team number 85:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Casper Pedersen
+Mark Cavendish
+Scoring 12836 points.
+Costing 100 credits.
+
+Team number 86:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Imanol Erviti
+Mark Cavendish
+Scoring 12836 points.
+Costing 98 credits.
+
+Team number 87:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Jonas Rutsch
+Mark Cavendish
+Scoring 12835 points.
+Costing 98 credits.
+
+Team number 88:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Michael Morkov
+Jasper Philipsen
+Scoring 12834 points.
+Costing 98 credits.
+
+Team number 89:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Michael Matthews
+Scoring 12834 points.
+Costing 100 credits.
+
+Team number 90:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Julian Alaphilippe
+Mark Cavendish
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Ben O'Connor
+Scoring 12832 points.
+Costing 96 credits.
+
+Team number 91:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Fred Wright
+Mark Cavendish
+Scoring 12829 points.
+Costing 96 credits.
+
+Team number 92:
+Tadej Pogacar
+Wilco Kelderman
+Richard Carapaz
+Julian Alaphilippe
+Mark Cavendish
+Mattia Cattaneo
+Matej Mohoric
+Kasper Asgreen
+Jonas Vingegaard
+Scoring 12827 points.
+Costing 100 credits.
+
+Team number 93:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Vegard Stake Laengen
+Mark Cavendish
+Scoring 12826 points.
+Costing 98 credits.
+
+Team number 94:
+Tadej Pogacar
+Wilco Kelderman
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Jonas Vingegaard
+Scoring 12824 points.
+Costing 98 credits.
+
+Team number 95:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Anthony Perez
+Mark Cavendish
+Scoring 12823 points.
+Costing 98 credits.
+
+Team number 96:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Sonny Colbrelli
+Scoring 12822 points.
+Costing 100 credits.
+
+Team number 97:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Jonas Rickaert
+Mark Cavendish
+Scoring 12822 points.
+Costing 98 credits.
+
+Team number 98:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Sergio Higuita
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Mikkel Bjerg
+Mark Cavendish
+Scoring 12821 points.
+Costing 98 credits.
+
+Team number 99:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+David Gaudu
+Wout Van Aert
+Mattia Cattaneo
+Matej Mohoric
+Franck Bonnamour
+Wout Poels
+Scoring 12817 points.
+Costing 96 credits.
+
+Team number 100:
+Tadej Pogacar
+Jonas Vingegaard
+Richard Carapaz
+Guillaume Martin
+Wout Van Aert
+Mattia Cattaneo
+Stefan Kueng
+Franck Bonnamour
+Mark Cavendish
+Scoring 12817 points.
+Costing 98 credits.
+

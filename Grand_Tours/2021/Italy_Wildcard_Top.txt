@@ -1,0 +1,51 @@
+Names,Cost,Points
+Egan Bernal,24,2964
+Joao Almeida,16,1521
+Tobias Foss,8,925
+Simon Yates,22,1576
+Aleksandr Vlasov,16,1544
+Hugh Carthy,14,929
+Dani Martinez,12,1475
+Dan Martin,10,1191
+Romain Bardet,10,1100
+George Bennett,10,754
+Damiano Caruso,8,2060
+Giulio Ciccone,8,786
+Davide Formolo,8,417
+Gino Maeder,6,344
+Fernando Gaviria,10,923
+Elia Viviani,10,793
+Davide Cimolai,8,1017
+Stefano Oldani,6,463
+Filippo Ganna,8,832
+Diego Ulissi,8,540
+Remi Cavagna,8,470
+Gianni Moscon,6,764
+Nikias Arndt,6,673
+Edoardo Affini,6,668
+Dries De Bondt,6,630
+Geoffrey Bouchard,6,578
+Alberto Bettiol,6,548
+Attila Valter,6,540
+Jan Tratnik,6,537
+Alessandro Covi,6,473
+Nelson Oliveira,6,469
+Victor Campenaerts,6,453
+Simone Consonni,6,448
+Jonathan Castroviejo,6,440
+Matteo Moschetti,6,430
+Francesco Gavazzi,6,408
+Louis Vervaeke,6,364
+Jhonatan Narvaez,6,355
+Salvatore Puccio,6,332
+Alessandro De Marchi,6,301
+Nicolas Edet,6,298
+Antonio Pedrero,6,296
+Joe Dombrowski,6,294
+Gianni Vermeersch,6,293
+Lorenzo Fortunato,4,536
+Koen Bouwman,4,458
+Taco Van Der Hoorn,4,384
+Vincenzo Albanese,4,337
+Quinten Hermans,4,319
+Mauro Schmid,4,264

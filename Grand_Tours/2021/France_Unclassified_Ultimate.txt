@@ -1,0 +1,8 @@
+Names,Cost,Points
+Mattia Cattaneo,6,953
+Matej Mohoric,6,864
+Kasper Asgreen,6,568
+Stefan Kueng,6,494
+Franck Bonnamour,4,587
+Nils Politt,4,412
+Michael Morkov,4,407

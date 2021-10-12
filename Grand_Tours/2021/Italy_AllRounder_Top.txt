@@ -1,0 +1,4 @@
+Names,Cost,Points
+Egan Bernal,24,2964
+Joao Almeida,16,1521
+Tobias Foss,8,925

@@ -1,0 +1,5 @@
+Names,Cost,Points
+Fabio Jakobsen,10,1420
+Michael Matthews,10,982
+Alberto Dainese,8,966
+Piet Allegaert,6,592

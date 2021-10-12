@@ -1,0 +1,25 @@
+Names,Cost,Points
+Primoz Roglic,26,3403
+Adam Yates,16,1611
+Enric Mas,12,2267
+Steven Kruijswijk,8,819
+Felix Grossschartner,6,1031
+David De La Cruz,6,897
+Miguel Angel Lopez,12,1385
+Sepp Kuss,10,1290
+Romain Bardet,10,978
+Jack Haig,8,1720
+Damiano Caruso,8,730
+Gino Maeder,6,1017
+Fabio Jakobsen,10,1420
+Michael Matthews,10,982
+Alberto Dainese,8,966
+Piet Allegaert,6,592
+Andrea Bagioli,8,706
+Magnus Cort,6,1254
+Michael Storer,6,855
+Clement Champoussin,6,732
+Rui Oliveira,6,524
+Odd Christian Eiking,4,733
+Antonio Soto,4,458
+Juan Pedro Lopez,4,341
