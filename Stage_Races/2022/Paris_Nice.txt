@@ -1,0 +1,29 @@
+Names,Cost,Points
+Primoz Roglic,26,1220
+Wout Van Aert,18,1118
+Simon Yates,16,762
+Nairo Quintana,16,359
+Brandon McNulty,14,581
+Dani Martinez,14,526
+Jack Haig,14,310
+Mads Pedersen,12,640
+Pierre Latour,12,475
+Rohan Dennis,10,222
+Stefan Kueng,10,215
+Christophe Laporte,8,504
+Bryan Coquard,8,259
+Biniam Girmay,8,245
+Franck Bonnamour,8,224
+Valentin Madouas,8,218
+Soren Kragh Andersen,8,199
+Anthony Turgis,8,188
+Ivan Garcia Cortina,8,161
+Mathieu Burgaudeau,6,217
+Luka Mezgec,6,174
+Quentin Pacher,6,152
+Andreas Leknessund,6,122
+Hugo Houle,4,122
+Nathan Van Hooydonck,4,114
+Owain Doull,4,95
+Laurent Pichon,4,92
+Alexis Gougeard,4,80
