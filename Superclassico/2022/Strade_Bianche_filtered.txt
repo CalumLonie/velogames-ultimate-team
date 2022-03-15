@@ -1,0 +1,15 @@
+Names,Cost,Points
+Tadej Pogacar,32,540
+Kasper Asgreen,26,360
+Alejandro Valverde,22,405
+Pello Bilbao,16,270
+Sergio Higuita,14,192
+Quinn Simmons,10,228
+Sebastien Reichenbach,10,153
+Jhonatan Narvaez,8,246
+Filippo Zana,8,108
+Attila Valter,6,315
+Simone Petilli,6,204
+Floris De Tier,6,171
+Carlos Rodriguez,6,99
+Simone Velasco,6,90
