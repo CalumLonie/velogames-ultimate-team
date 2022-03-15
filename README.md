@@ -11,7 +11,7 @@ The different event types are:
 
 - Grand Tours: each team comprises 9 riders, but riders are split into classes. Players must pick 2 All Rounders, 2 Climbers, 1 Sprinter and 3 Unclassified riders, as well as 1 Wildcard, who can be any rider from any class.
 - Stage Races: each team is made up of 9 riders. These races are week-long World Tour level stage races, such as Paris-Nice or the Tour de Romandie
-- Superclasico: each team is made up of 6 riders. These are one day races, including Monuments, World Tour level and smaller races.
+- Superclasico: each team is made up of 6 riders. These are one day races, including Monuments, World Tour level and smaller races. Each race has a category value, which affects the scoring system for the race.
 - Women's Classics: each team is made up of 6 riders. This is essentially the Women's equivalent of the Superclasico. This event type did not happen in 2020, but was instead a short Classics Squad event.
 - Classics Squad: this is a series of the major one day races held in the Spring, where players create a squad of 12 riders, which they keep throughout the whole event, though a limited number of substitutions are available. 
 
@@ -26,16 +26,16 @@ How the code works:
 
 
 I write the results of each race as databases saved in CSV files.
-These files are read into a Python code, and each combination is tested to see if it is within the credit limit and its points total calculated.
+These files are read into a Python code (VUTfinder), and each combination is tested to see if it is within the credit limit and its points total calculated.
 If the combination's points total surpasses the current best, its composition, cost total and points total are saved in variables.
 Once all the combinations have been evaluated, the best team's rider composition is outputted into a text file, along with how much it cost and scored.
 
-For most of the races, the number of combinations to evaluate (especially if the teams have 9 riders) is high, leading to long (several hours) run times.
-To speed this up, I wrote some SQL files, which would sort through the results and remove the lower-scoring riders, who would not be in the best team.
-I used two types of filtering, depending on the event type.
+However, before I do this, I first thin down the database to keep only the riders that are likely to end up in the best team.
+Doing this significantly reduces the number of possible combinations, and so massively improves runtime.
+The database is read into the VUTfiltering code, where two types of filtering are used.
 
+- Logical filtering: each team has a set number of riders, meaning only this number of riders is needed for every cost value. A 6 rider team means only the top 6 scoring riders for each cost value could ever be picked.
 - Ratio filtering: only keep riders who have a points to cost ratio above a threshhold.
-- Logical filtering: used for the Grand Tour races. Because you are limited in the number of riders to pick from each class, for each cost only keep the best scoring (2 All Rounders, 2 Climbers, 1 Sprinter, 3 Unclassified + 1 each for the Wildcard) of riders.
 
 
 Extra files and folders:
@@ -56,3 +56,9 @@ I have combined most of the code for the individual events into one program.
 This code can handle the files for the Superclassico, Women's Classics, Classics Squads and Stage Races events.
 The Grand Tour events and Ultimate Squad calculations still need their own specific files.
 The old files are now in an Archive_Files folder, and the results have now been grouped into a folder for their year.
+
+
+UPDATE 15/03/2022
+
+I have now written the VUTfiltering code, which does the same as my SQL files and so makes them redundant.
+These files are now in the Archive_Files folder.
