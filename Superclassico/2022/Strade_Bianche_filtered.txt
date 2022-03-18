@@ -2,10 +2,16 @@ Names,Cost,Points
 Tadej Pogacar,32,540
 Kasper Asgreen,26,360
 Alejandro Valverde,22,405
+Tim Wellens,18,216
+Michael Valgren,18,180
 Pello Bilbao,16,270
 Sergio Higuita,14,192
+Lorenzo Rota,14,162
+Ruben Guerreiro,12,144
+Toms Skujins,12,135
 Quinn Simmons,10,228
 Sebastien Reichenbach,10,153
+Jai Hindley,10,117
 Jhonatan Narvaez,8,246
 Filippo Zana,8,108
 Attila Valter,6,315
@@ -13,3 +19,9 @@ Simone Petilli,6,204
 Floris De Tier,6,171
 Carlos Rodriguez,6,99
 Simone Velasco,6,90
+Mikkel Bjerg,6,60
+Simone Bevilacqua,4,45
+Sergio Garcia,4,45
+Marco Brenner,4,45
+Leon Heinschke,4,45
+Samuele Zoccarato,4,45
