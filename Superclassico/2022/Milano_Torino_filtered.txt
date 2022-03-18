@@ -1,0 +1,25 @@
+Names,Cost,Points
+Peter Sagan,24,270
+Alexander Kristoff,20,360
+Mark Cavendish,16,450
+Andrea Vendrame,14,246
+Nacer Bouhanni,12,405
+Michael Morkov,12,288
+Max Kanter,10,315
+Ben Swift,10,216
+Simone Consonni,10,204
+Alberto Dainese,10,162
+Jakub Mareczko,10,108
+Biniam Girmay,8,212
+Juan Sebastian Molano,8,180
+Filippo Fiorelli,6,171
+Szymon Sajnok,6,153
+Eduard-Michael Grosu,6,135
+Itamar Einhorn,6,126
+Ryan Gibbons,6,90
+Daniel Viegas,4,135
+Martin Marcellusi,4,135
+Juan Diego Alba,4,135
+Corbin Strong,4,117
+Filippo Tagliani,4,99
+Tobias Bayer,4,63
