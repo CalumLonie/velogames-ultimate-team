@@ -1,0 +1,27 @@
+Names,Cost,Points
+Tadej Pogacar,32,360
+Mathieu Van Der Poel,30,480
+Mads Pedersen,24,330
+Michael Matthews,22,420
+Matej Mohoric,20,600
+Arnaud Demare,20,255
+Alex Aranburu,20,216
+Anthony Turgis,18,540
+Michal Kwiatkowski,18,180
+Soren Koragh Andersen,14,300
+Damiano Caruso,14,282
+Lorenzo Rota,14,144
+Biniam Girmay,8,228
+Krists Neilands,8,120
+Jan Tratnik,6,360
+Alessandro Tonelli,6,240
+Vincenzo Albanese,6,240
+Quentin Pacher,6,132
+Yevgeniy Gidich,6,120
+Yukiya Arashiro,6,90
+Samuele Rivi,4,240
+Diego Pablo Sevilla,4,120
+Filippo Conca,4,120
+Filippo Tagliani,4,120
+Artyom Zakharov,4,120
+Ricardo Alejandro Zurita,4,120
