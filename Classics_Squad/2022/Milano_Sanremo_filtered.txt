@@ -1,0 +1,22 @@
+Names,Cost,Points
+Mathieu Van Der Poel,16,300
+Michael Matthews,12,260
+Mads Pedersen,12,220
+Matej Mohoric,10,400
+Anthony Turgis,10,350
+Soren Kragh Andersen,8,200
+Damiano Caruso,8,160
+Arnaud Demare,8,150
+Binian Girmay,8,130
+Samuele Rivi,4,240
+Alessandro Tonelli,4,240
+Jan Tratnik,4,220
+Vincenzo Albanese,4,140
+Diego Pablo Sevilla,4,120
+Filippo Conca,4,120
+Yevgeniy Gidich,4,120
+Filippo Tagliani,4,120
+Artyom Zakharov,4,120
+Ricardo Alejandro Zurita,4,120
+Quentin Pacher,4,66
+Yukiya Arashiro,4,60
