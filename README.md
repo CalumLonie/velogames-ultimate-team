@@ -1,64 +1,44 @@
 # velogames-ultimate-team
 
-Velogames is a fantasy cycling competition, where users create their team for a race and pick their riders, while staying within a credit limit. At the end of the race, scores are given to each rider depending on race results.
-I started using Velogames in 2020, and I wanted to see if I could write code to determine what the best possible team for a race was, using the scores given at the end of the event.
+Introduction on Velogames:
 
-I got the idea during the Giro d'Italia (Italy event on Velogames), and so I first started working on code to work on results from the Grand Tours.
-The Grand Tours are the Giro d'Italia, the Tour de France and the Vuelta a Espana, and their respective events on Velogames are Italy, France and Spain.
-Once I had working Python code, I moved on to find the best teams for the other Velogames events.
-The teams' composition changes for different events, so I decided to write new programs for each event type, for the sake of clarity.
-The different event types are:
+Velogames is a fantasy cycling platform, where users pick riders to make a team, while staying within a credit limit.
+These riders then earn points depending on their performances in races.
+There are lots of different events and event types:
 
-- Grand Tours: each team comprises 9 riders, but riders are split into classes. Players must pick 2 All Rounders, 2 Climbers, 1 Sprinter and 3 Unclassified riders, as well as 1 Wildcard, who can be any rider from any class.
-- Stage Races: each team is made up of 9 riders. These races are week-long World Tour level stage races, such as Paris-Nice or the Tour de Romandie
-- Superclasico: each team is made up of 6 riders. These are one day races, including Monuments, World Tour level and smaller races. Each race has a category value, which affects the scoring system for the race.
-- Women's Classics: each team is made up of 6 riders. This is essentially the Women's equivalent of the Superclasico. This event type did not happen in 2020, but was instead a short Classics Squad event.
-- Classics Squad: this is a series of the major one day races held in the Spring, where players create a squad of 12 riders, which they keep throughout the whole event, though a limited number of substitutions are available. 
+- Superclasico: a season-long event, covering the biggest men's one-day races (usually 30+ races) of the calendar. Each team of 6 can be completely changed between each race.
+- Women's Classics: the women's Superclasico, also with 6 rider teams. This didn't happen in 2020.
+- Classics Squad: similar to Superclasico, but with notable differences. This also covers a series of one-day races (12 ish), but only the spring ones, usually starting with Milano-Sanremo and finishing with Liège-Bastogne-Liège. Users create a squad of 12 riders, which is to be kept for the entire campaign. However, there is a substitution allowance, which can be used between races however we deem fit, as long as we don't exceed our total for the entire event. This event is usually only for men's races, though there was a women's edition in 2020.
+- Stage Races: there is a separate event for each major week-long stage race, where 9 riders fill your team.
+- Grand Tours: the biggest stage races of the year. There are three of them, and each lasts three weeks. There are 9 riders in each team, but riders are now given a class: All Rounder, Climber, Sprinter or Unclassified. Teams must comprise 2 All Rounders, 2 Climbers, 1 Sprinter, 3 Unclassified riders and 1 'Wildcard' who can be any other rider from any class.
 
 
-Note on the Classics Squad:
+Finding the best team:
 
-I have written code to determine the best squad for the Classics Squad events, including substitutions, but I do not have the processing power to run it without it taking weeks. I know the code works, because I have used a small handmade sample to test my program.
-For this event, I determine the best 12 man team for each individual race.
+Once the final results for the latest event are uploaded, a database is written up containing the names, credit cost and points scored for either all scoring riders (for one day races) or for all riders who took part (for longer races).
+These databases are saved in .csv format in the folder corresponding to the event type and year.
+Determining the best team for most Velogames events is now done using two Jupyter notebook scripts: VUTfiltering and VUTfinder.
 
+The first step is to filter the database and keep only the best-scoring riders.
+This hugely reduces the number of possible combinations that the finder program will run, which speeds up the run time.
+The filtering is done in two ways, which I call logical filtering and ratio filtering:
 
-How the code works:
+- Logical filtering: this limits the number of saved riders for each cost value. In a 6 rider team, there can never be more than 6 equal-costing riders, so keeping the 7th best-scoring rider would be useless. This is especially effective for the Grand Tour events.
+- Ratio filtering: this only keeps the riders that have reached a set points/cost ratio. This kind of filtering removes high-costing but low-scoring riders, that logical filtering couldn't remove. Work is still ongoing to find the ratios that lead to the best balance of filtering.
 
+Once the filtering is complete, the kept riders are outputted into a 'race_name_filtered.txt' file, which is to be read into the finder program.
+The finder code runs through all the possible combinations, checking if they stay within the credit limit, and saves the best scoring combination.
+This combination is then outputted into another text file, called 'race_name_UT.txt'.
+The best team is also recorded in an Excel file 'VUT_year.xlsx', which holds all the best teams for all the Velogames events of the year, and also contains some extra data.
+The functions used in these two algorithms are saved in the Python 'VUTfunctions.py' file.
 
-I write the results of each race as databases saved in CSV files.
-These files are read into a Python code (VUTfinder), and each combination is tested to see if it is within the credit limit and its points total calculated.
-If the combination's points total surpasses the current best, its composition, cost total and points total are saved in variables.
-Once all the combinations have been evaluated, the best team's rider composition is outputted into a text file, along with how much it cost and scored.
+This method works for almost all 2022 Velogames events, with the exception of the Grand Tours and the Ultimate Squad:
 
-However, before I do this, I first thin down the database to keep only the riders that are likely to end up in the best team.
-Doing this significantly reduces the number of possible combinations, and so massively improves runtime.
-The database is read into the VUTfiltering code, where two types of filtering are used.
-
-- Logical filtering: each team has a set number of riders, meaning only this number of riders is needed for every cost value. A 6 rider team means only the top 6 scoring riders for each cost value could ever be picked.
-- Ratio filtering: only keep riders who have a points to cost ratio above a threshhold.
-
-
-Extra files and folders:
-- The Test Files folder contains files I used to test different processes and figure issues out.
-- The Points Ratio Excel files were used for some data analysis to determine the best threshhold values for the ratio filtering in the SQL files.
-- The VUT_2020 and VUT_2021 Excel files are my results files, holding details for each race, including the number of riders in the databases, before and after filtering, and the result outputs.
+- Grand Tours: because of the introduction of riders classes, this slightly changes the filtering process and how the combinations are worked out, so seperate algorithms are used: GTfiltering and GTfinder. A few functions from the VUTfunctions file are still used.
+- Ultimate Squad: this is the best possible squad for the Classics Squad event as a whole, including substitutions. The best team for each individual Classics Squad race is found using the VUT files, but finding the best squad requires a much more intricate process, meaning different files: USfunctions, USfiltering and USfinder. However, because of the sheer size of the task, I have never tried to find the ultimate squad for any entire event yet, it would just take too long. I know the process works, having successfully tested it on a much smaller handmade sample. I am hopeful of still being able to use these codes on the actual datasets.
 
 
-Note:
-I worked on the Ultimate Squad file after the others, and it took a lot of effort to get working properly.
-I could use some of the more optimised processes from it and apply them to the others to update them.
-I might do this in the future, but for now I do not see the need
+In 2020 and 2021, individual codes were used for each event type, and filtering was done using SQL files.
+These files are present in the Archive_Files folder.
 
-
-UPDATE: 12/10/2021
-
-I have combined most of the code for the individual events into one program. 
-This code can handle the files for the Superclassico, Women's Classics, Classics Squads and Stage Races events.
-The Grand Tour events and Ultimate Squad calculations still need their own specific files.
-The old files are now in an Archive_Files folder, and the results have now been grouped into a folder for their year.
-
-
-UPDATE 15/03/2022
-
-I have now written the VUTfiltering code, which does the same as my SQL files and so makes them redundant.
-These files are now in the Archive_Files folder.
+The Test_Files folder holds files I used to test processes during the writing of codes, including the test sample used to check the working of the Ultimate Squad finder code.
