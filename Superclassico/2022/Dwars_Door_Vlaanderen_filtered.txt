@@ -1,0 +1,24 @@
+Names,Cost,Points
+Mathieu Van Der Poel,30,540
+Tom Pidcock,26,450
+Tiesj Benoot,20,495
+Nils Politt,16,450
+Stefan Kueng,16,336
+Valentin Madouas,16,180
+Andrea Pasqualon,16,171
+Amaury Capiot,12,162
+Victor Campenaerts,10,405
+Jannik Steimle,8,153
+Olivier Le Gac,8,117
+Jan Tratnik,6,204
+Johan Jacobs,6,153
+Pascal Eenkhoorn,6,121
+Matis Louvel,6,108
+Alexis Gougeard,6,99
+Mathijs Paasschens,6,90
+Kelland O'Brien,4,408
+Ben Turner,4,326
+Magnus Sheffield,4,164
+Aaron Verwilst,4,90
+Tobias Bayer,4,60
+Julien Vermote,4,60
