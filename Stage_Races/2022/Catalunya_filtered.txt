@@ -1,0 +1,31 @@
+Names,Cost,Points
+Richard Carapaz,18,720
+Nairo Quintana,18,609
+Joao Almeida,16,658
+Ben O'Connor,12,461
+Guillaume Martin,12,382
+Wout Poels,12,292
+Michael Matthews,12,279
+Sergio Higuita,10,1051
+Juan Ayuso,8,676
+Kaden Groves,8,447
+Phil Bauhaus,8,304
+Dylan Teuns,8,301
+Andrea Bagioli,8,289
+Hugo Hofstetter,8,236
+Attila Valter,8,208
+Tobias Halland Johannessen,6,432
+Quentin Pacher,6,292
+Mattias Skjelmose Jensen,6,261
+Torstein Traeen,6,202
+Carlos Verona,6,181
+Fernando Barcelo,6,160
+Dorian Godon,6,158
+Hermann Pernsteiner,6,156
+Jan Bakelants,6,143
+Ethan Vernon,4,267
+Jonas Iversby Hvideberg,4,163
+Manuel Penalver,4,130
+Ivo Oliveira,4,122
+Ander Okamika,4,113
+Henri Vandenabeele,4,98
