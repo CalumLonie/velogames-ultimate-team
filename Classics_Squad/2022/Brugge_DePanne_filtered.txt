@@ -1,0 +1,23 @@
+Names,Cost,Points
+Jasper Stuyven,12,120
+Tim Merlier,10,250
+Dylan Groenewegen,10,220
+Nacer Bouhanni,8,200
+Max Walscheid,8,180
+Arnaud Demare,8,150
+Heinrich Haussler,8,110
+Olav Kooij,6,160
+Simone Consonni,6,140
+Arnaud De Lie,6,130
+Michael Morkov,6,95
+Max Kanter,6,90
+Timothy Dupont,6,85
+Enrico Battaglin,6,72
+Stanislaw Aniolkowski,4,100
+Lorrenzo Manzin,4,80
+Rick Zabel,4,75
+Dimitri Peyskens,4,72
+Jens Reynders,4,72
+Lluis Mas,4,65
+Soren Waerenskjold,4,60
+Itamar Einhorn,4,55
