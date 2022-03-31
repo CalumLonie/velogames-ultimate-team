@@ -1,0 +1,20 @@
+Names,Cost,Points
+Wout Van Aert,32,625
+Christophe Laporte,20,600
+Matej Mohoric,20,360
+Tiesj Benoot,20,349
+Dylan Van Baarle,18,261
+Anthony Turgis,18,207
+Stefan Kueng,16,405
+Valentin Madouas,16,293
+Mike Teunissen,14,316
+Rasmus Tiller,12,225
+Marco Haller,12,126
+Biniam Girmay,8,315
+Jhaonatan Narvaez,8,291
+Nathan Van Hooydonck,8,217
+Michael Gogl,8,198
+Edoardo Affini,8,100
+Olivier Le Gac,8,92
+Joris Nieuwenhuis,6,81
+Lasse Norman Hansen,4,45
