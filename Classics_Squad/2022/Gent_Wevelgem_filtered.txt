@@ -1,0 +1,20 @@
+Names,Cost,Points
+Jasper Stuyven,12,288
+Mads Pedersen,12,176
+Christophe Laporte,10,328
+Tim Merlier,10,150
+Alexander Kristoff,10,136
+Matej Mohoric,10,120
+Biniam Girmay,8,322
+Soren Kragh Andersen,8,196
+Ivan Garcia Cortina,8,166
+Arnaud Demare,8,146
+Andrea Pasqualon,8,121
+Luka Mezgec,8,90
+Dries Van Gestel,4,272
+Arjen Livyns,4,101
+Robbe Ghys,4,80
+Laurenz Rex,4,75
+Ben Turner,4,51
+Jonas Koch,4,45
+Marijn Van Den Berg,4,40
