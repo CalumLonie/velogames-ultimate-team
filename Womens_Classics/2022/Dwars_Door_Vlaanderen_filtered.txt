@@ -1,0 +1,23 @@
+Names,Cost,Points
+Chiara Consonni,14,450
+Elise Chabbey,14,360
+Marta Bastianelli,14,270
+Lucinda Brand,14,180
+Pfeiffer Georgi,12,315
+Arlenis Sierra,12,204
+Floortje Mackaij,12,162
+Susanne Andersen,8,162
+Anouska Koster,8,135
+Brodie Chapman,8,117
+Rachele Barbieri,6,246
+Shari Bossuyt,6,236
+Marie Le Net,6,228
+Karlijn Swinkels,6,192
+Letizia Borghesi,6,171
+Tamara Dronova,6,153
+Julie De Wilde,4,405
+Ruby Roseman-Gannon,4,126
+Alexandra Manly,4,72
+Anastasia Carbonari,4,60
+Karolina Kumiega,4,60
+Margaux Vigie,4,60
