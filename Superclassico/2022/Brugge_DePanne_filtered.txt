@@ -1,0 +1,26 @@
+Names,Cost,Points
+Tim Merlier,20,450
+Dylan Groenewegen,20,405
+Arnaud Demare,20,246
+Max Walscheid,16,315
+Heinrich Haussler,14,192
+Nacer Bouhanni,12,360
+Michael Morkov,12,171
+Olav Kooij,10,270
+Simone Consonni,10,228
+Arnaud De Lie,10,216
+Max Kanter,10,162
+Timothy Dupont,10,153
+Biniam Girmay,8,90
+Stanislaw Aniolkowski,6,180
+Lorrenzo Manzin,6,144
+Rick Zabel,6,135
+Lluis Mas,6,117
+Itamar Einhorn,6,99
+Maurice Ballerstedt,6,60
+Soren Waerenskjold,4,108
+Dimitri Peyskens,4,90
+Jens Reynders,4,90
+Julien Vermote,4,60
+Alexander Konychev,4,40
+Kelland O'Brien,4,40
