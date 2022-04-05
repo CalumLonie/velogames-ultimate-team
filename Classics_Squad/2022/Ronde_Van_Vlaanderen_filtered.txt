@@ -1,0 +1,24 @@
+Names,Cost,Points
+Tadej Pogacar,20,440
+Mathieu Van Der Poel,16,580
+Tom Pidcock,14,210
+Mads Pedersen,12,240
+Michael Matthews,12,200
+Dylan Van Baarle,10,470
+Stefan Kueng,10,320
+Christophe Laporte,10,220
+Dylan Teuns,10,220
+Alexander Kristoff,10,150
+Valentin Madouas,8,360
+Fred Wright,6,320
+Luca Mozzato,6,96
+Jan Tratnik,4,190
+Ben Turner,4,100
+Matis Louvel,4,84
+Mathijs Paasschens,4,60
+Silvan Dillier,4,60
+Tom Bohli,4,60
+Lyndsay De Wylder,4,60
+Julien Vermote,4,60
+Manuele Boaro,4,60
+Taco Van Der Hoorn,4,60
