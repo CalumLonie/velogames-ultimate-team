@@ -1,0 +1,18 @@
+Names,Cost,Points
+Jasper Philipsen,24,267
+Sam Bennett,22,258
+Alexander Kristoff,20,420
+Tim Merlier,20,258
+Danny Van Poppel,16,390
+Edward Theuns,14,300
+Jordi Meeus,14,264
+Dan McLay,12,276
+Arnaud De Lie,10,102
+Ryan Mullen,6,279
+Ruediger Selig,6,240
+Szymon Sajnok,6,72
+Emils Liepins,6,66
+Kenneth Van Rooy,6,60
+Sam Welsford,4,360
+Kenneth Vanbilsen,4,285
+Barnabas Peak,4,45
