@@ -1,0 +1,19 @@
+Names,Cost,Points
+Alexander Kristoff,10,394
+Jasper Philipsen,10,274
+Tim Merlier,10,264
+Sam Bennett,10,258
+Danny Van Poppel,8,364
+Edward Theuns,8,304
+Jordi Meeus,8,263
+Nils Politt,8,99
+Dan McLay,6,284
+Arnaud De Lie,6,85
+Luca Mozzato,6,65
+Szymon Sajnok,6,60
+Sam Welsford,4,344
+Kenneth Vanbilsen,4,294
+Ryan Mullen,4,278
+Ruediger Selig,4,244
+Emils Liepins,4,55
+Kenneth Van Rooy,4,50
