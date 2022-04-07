@@ -1,0 +1,19 @@
+Names,Cost,Points
+Lorena Wiebes,24,450
+Chiara Consonni,14,405
+Chloe Hosking,12,246
+Barbara Guarischi,8,270
+Charlotte Kool,8,252
+Eleonora Camilla Gasparini,8,94
+Rachele Barbieri,6,360
+Letizia Borghesi,6,216
+Anna Trevisi,6,204
+Marta Jaskulska,6,200
+Abi Smith,6,180
+Ingvild Gaskjenn,6,135
+Georgia Baker,4,315
+Julie De Wilde,4,228
+Katrijn De Clercq,4,171
+Maike Van Der Duin,4,162
+Danique Braam,4,153
+Sanne Cant,4,144
