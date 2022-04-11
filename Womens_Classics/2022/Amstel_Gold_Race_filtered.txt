@@ -1,0 +1,24 @@
+Names,Cost,Points
+Demi Vollering,30,600
+Annemiek Van Vleuten,30,480
+Katarzyna Niewiadoma,24,420
+Ashleigh Moolman-Pasio,24,360
+Marta Cavalli,20,600
+Mavi Garcia,18,330
+Coryn Labecki,14,270
+Liane Lippert,12,480
+Juliette Labous,12,270
+Sofia Bertizzolo,12,255
+Riejanne Markus,10,204
+Blanka Vas,8,144
+Mischa Bredewold,8,120
+Yara Kastelijn,6,216
+Shirin Van Anrooij,6,180
+Stine Borgli,6,150
+Olivia Baril,6,108
+Victorie Guilman,6,90
+Marie Le Net,6,90
+Alexandra Manly,4,228
+Elizabeth Holden,4,156
+Silke Smulders,4,132
+Jade Wiel,4,90
