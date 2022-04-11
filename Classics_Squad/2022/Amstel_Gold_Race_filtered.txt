@@ -1,0 +1,21 @@
+Names,Cost,Points
+Mathieu Van Der Poel,16,260
+Kasper Asgreen,14,220
+Michael Matthews,12,200
+Benoit Cosnefroy,10,410
+Tiesj Benoot,10,300
+Stefan Kueng,10,180
+Marc Hirschi,10,160
+Dylan Teuns,10,150
+Michal Kwiatkowski,8,520
+Aaron Van Poucke,6,120
+Alexander Kamp,4,240
+Jan Tratnik,4,130
+Johan Jacobs,4,120
+Owain Doull,4,120
+Quentin Pacher,4,78
+Laurens De Plus,4,60
+Magnus Sheffield,4,60
+Ben Turner,4,60
+Luca Rastelli,4,60
+Emils Liepins,4,60
