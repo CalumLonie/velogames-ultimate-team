@@ -1,9 +1,6 @@
 Names,Cost,Points
 Annemiek Van Vleuten,30,660
 Lotte Kopecky,26,750
-Katarzyna Niewiadoma,24,345
-Cecilie Uttrup Ludwig,24,330
-Emma Norsgaard,20,276
 Grace Brown,18,300
 Chantal Van Den Broek-Blaak,16,690
 Marlen Reusser,14,480
@@ -13,17 +10,9 @@ Christine Majerus,12,372
 Sofia Bertizzolo,12,240
 Sarah Roy,12,228
 Floortje Mackaij,12,204
-Maria Giulia Confalonieri,12,168
-Elena Cecchini,10,120
 Brodie Chapman,8,330
-Mischa Bredewold,8,96
-Aude Biannic,8,84
 Silvia Persico,6,240
 Maaike Boogaard,6,144
-Yara Kastelijn,6,84
-Marit Raaijmakers,6,60
-Alicia Gonzalez,6,60
-Camilla Alessio,6,60
 Alexandra Manly,4,156
 Elizabeth Holden,4,120
 Clara Honsinger,4,60
