@@ -1,0 +1,24 @@
+Names,Cost,Points
+Demi Vollering,30,585
+Katarzyna Niewiadoma,24,405
+Ashleigh Moolman Pasio,24,276
+Marlen Reusser,14,375
+Niamh Fisher-Black,14,177
+Liane Lippert,12,360
+Juliette Labous,12,290
+Sofia Bertizzolo,12,204
+Pauiena Rooijakkers,10,331
+Anna Shackley,8,168
+Mischa Bredewold,8,153
+Ane Santesteban,8,81
+Silvia Persico,6,228
+Victorie Guilman,6,180
+Paula Patino,6,162
+Shirin Van Anrooij,6,144
+Karlijn Swinkels,6,99
+Marta Jaskulska,6,90
+Alexandra Manly,4,192
+Loes Adegeest,4,171
+Mareille Meijering,4,72
+Megan Armitage,4,45
+Neve Bradbury,4,40
