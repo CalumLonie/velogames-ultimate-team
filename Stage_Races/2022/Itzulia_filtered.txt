@@ -1,0 +1,21 @@
+Names,Cost,Points
+Primoz Roglic,28,679
+Julian Alaphilippe,20,570
+Jonas Vingegaard,20,549
+Dani Martinez,18,998
+Remco Evenepoel,18,739
+Aleksandr Vlasov,16,727
+Enric Mas,16,339
+Pello Bilbao,14,647
+Ion Izagirre,12,700
+Marc Soler,12,423
+Carlos Rodriguez,10,300
+Davide Formolo,8,190
+Ben Tulett,6,180
+Cristian Rodriguez,6,177
+Juan Pedro Lopez,6,155
+Steff Cras,6,143
+Bruno Armirail,6,139
+Felix Gall,4,153
+Orluis Aular,4,150
+Fabien Doubey,4,135
