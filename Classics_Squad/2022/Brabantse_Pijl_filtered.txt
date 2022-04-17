@@ -1,0 +1,20 @@
+Names,Cost,Points
+Tom Pidcock,14,304
+Remco Evenepoel,14,258
+Michael Matthews,12,140
+Benoit Cosnefroy,10,328
+Warren Barguil,10,272
+Tim Wellens,10,228
+Dylan Teuns,10,166
+Michael Valgren,8,100
+Mauri Vansevenant,8,85
+Xandro Meurisse,6,110
+Dorian Godon,6,104
+Magnus Sheffield,4,358
+Ben Turner,4,324
+Laurens De Plus,4,131
+Daryl Impey,4,90
+Hugo Houle,4,75
+Jenno Berckmoes,4,70
+Vito Braet,4,55
+Tony Gallopin,4,50
