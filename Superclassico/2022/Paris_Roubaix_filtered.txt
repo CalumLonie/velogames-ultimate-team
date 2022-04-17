@@ -1,0 +1,19 @@
+Names,Cost,Points
+Wout Van Aert,32,540
+Yves Lampaert,24,315
+Jasper Stuyven,24,300
+Matej Mohoric,20,480
+Alexander Kristoff,20,228
+Dylan Van Baarle,18,720
+Stefan Kueng,16,480
+Jordi Meeus,14,204
+Mike Teunissen,14,192
+Tom Devriendt,6,540
+Laurent Pichon,6,345
+Adrien Petit,6,330
+Matis Louvel,6,192
+Taco Van Der Hoorn,6,180
+Stefan Bissegger,6,120
+Ben Turner,4,330
+Magnus Sheffield,4,90
+Cameron Wurf,4,90
