@@ -1,0 +1,21 @@
+Names,Cost,Points
+Elisa Longo Borghini,28,810
+Lotte Kopecky,26,540
+Marta Cavalli,20,360
+Chantal Van Den Broek-Blaak,16,345
+Lucinda Brand,14,570
+Elise Chabbey,14,420
+Ellen Van Dijk,14,420
+Floortje Mackaij,12,330
+Pfeiffer Georgi,12,270
+Alison Jackson,10,216
+Teuntje Beekhuis,8,204
+Tiffany Cromwell,8,180
+Sandra Alonso,6,255
+Femke Markus,6,156
+Romy Kasper,6,144
+Valerie Demey,6,120
+Marta Lach,6,108
+Victoire Berteau,4,168
+Alana Castrique,4,132
+Ilse Pluimers,4,96
