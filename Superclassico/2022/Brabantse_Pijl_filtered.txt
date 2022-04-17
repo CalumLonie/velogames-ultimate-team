@@ -1,0 +1,18 @@
+Names,Cost,Points
+Remco Evenepoel,28,255
+Tom Pidcock,26,315
+Benoit Cosnefroy,20,360
+Warren Barguil,20,300
+Tim Wellens,18,228
+Dylan Teuns,16,177
+Daryl Impey,12,108
+Xandro Meurisse,10,129
+Dorian Godon,10,126
+Laurens De Plus,8,159
+Hugo Houle,6,90
+Tony Gallopin,6,60
+Magnus Sheffield,4,390
+Ben Turner,4,345
+Jenno Berckmoes,4,84
+Vito Braet,4,66
+Cameron Wurf,4,45
