@@ -1,0 +1,24 @@
+Names,Cost,Points
+Annemiek Van Vleuten,30,600
+Demi Vollering,30,540
+Ashleigh Moolman Pasio,24,510
+Marta Cavalli,20,660
+Mavi Garcia,18,420
+Niamh Fisher-Black,14,258
+Liane Lippert,12,360
+Arlenis Sierra,12,252
+Pauliena Rooijakkers,10,300
+Anouska Koster,8,384
+Ane Santesteban,8,255
+Anna Shackley,8,210
+Jelena Eric,8,120
+Yara Kastelijn,6,450
+Kristabel Doebel-Hickok,6,405
+Esmee Peperkamp,6,216
+Paula Patino,6,216
+Shirin Van Anrooij,6,216
+Olivia Baril,6,180
+Morgane Coston,4,108
+Jade Wiel,4,90
+Kylie Waterreus,4,60
+Anastasia Carbonari,4,60
