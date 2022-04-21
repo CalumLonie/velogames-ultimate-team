@@ -1,0 +1,24 @@
+Names,Cost,Points
+Julian Alaphilippe,30,315
+Michael Woods,24,246
+Alejandro Valverde,22,405
+Warren Barguil,20,204
+Aleksandr Vlasov,18,360
+Dylan Teuns,16,450
+Dani Martinez,16,270
+Rudy Molard,14,216
+Alexis Vuillermoz,14,192
+Ruben Guerreiro,12,228
+Jesus Herrada,12,135
+Daryl Impey,12,135
+Nick Schultz,10,153
+Domenico Pozzovivo,10,144
+Tobias Halland Johannessen,8,99
+Simon Carr,8,90
+Valentin Ferron,6,180
+Bruno Armirail,6,135
+Jimmy Janssens,6,135
+Simon Guglielmi,6,135
+Quentin Pacher,6,126
+Mattias Skjelmose Jensen,6,117
+Jens Reynders,4,45
