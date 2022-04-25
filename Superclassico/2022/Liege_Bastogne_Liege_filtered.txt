@@ -1,0 +1,35 @@
+Names,Cost,Points
+Wout Van Aert,32,480
+Remco Evenepoel,28,720
+Mike Woods,24,255
+Alejandro Valverde,22,300
+Marc Hirschi,20,270
+Jakob Fuglsang,20,216
+Aleksandr Vlasov,18,204
+Dani Martinez,16,420
+Dylan Teuns,16,330
+Enric Mas,16,228
+Sergio Higuita,14,360
+Jack Haig,14,240
+Mauri Vansevenant,14,186
+Rudy Molard,14,156
+Neilson Powless,12,285
+Baptiste Planckaert,12,120
+Robert Stannard,10,168
+Xandro Meurisse,10,144
+Domenico Pozzovivo,10,120
+Quinten Hermans,8,540
+Harm Vanhoucke,8,120
+Tim Declercq,8,90
+Pieter Serry,8,90
+Louis Vervaeke,8,90
+Bruno Armirail,6,360
+Quentin Pacher,6,132
+Sylvain Moniquet,6,120
+Luc Wirtgen,6,120
+Fabien Doubey,6,120
+Ilan Van Wilder,6,90
+Paul Ourselin,4,120
+Pau Miquel,4,60
+Jacob Hindsgaul Madsen,4,60
+Corne Van Kessel,4,60
