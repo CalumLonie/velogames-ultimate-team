@@ -1,0 +1,34 @@
+Names,Cost,Points
+Wout Van Aert,20,1367
+Tadej Pogacar,20,885
+Mathieu Van Der Poel,16,1622
+Tim Pidcock,14,986
+Remco Evenepoel,14,778
+Michael Matthews,12,800
+Jasper Stuyven,12,724
+Mads Pedersen,12,671
+Dylan Van Baarle,10,1282
+Matej Mohoric,10,1276
+Stefan Kueng,10,1258
+Tiesj Benoot,10,1052
+Christophe Laporte,10,1026
+Dylan Teuns,10,1006
+Benoit Cosnefroy,10,870
+Alexander Kristoff,10,840
+Tim Merlier,10,664
+Warren Barguil,10,552
+Valentin Madouas,8,778
+Michal Kwiatkowski,8,706
+Binian Girmay,8,698
+Soren Kragh Andersen,8,514
+Danny Van Poppel,8,499
+Nils Politt,8,457
+Fred Wright,6,350
+Quinten Hermans,6,350
+Victor Campenaerts,6,324
+Ben Turner,4,969
+Jan Tratnik,4,660
+Magnus Sheffield,4,610
+Tom Devriendt,4,436
+Bruno Armirail,4,378
+Sam Welsford,4,344
