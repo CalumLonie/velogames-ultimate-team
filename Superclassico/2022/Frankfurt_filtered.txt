@@ -1,0 +1,23 @@
+Names,Cost,Points
+Sam Bennett,22,450
+Fernando Gaviria,20,405
+Alexander Kristoff,20,360
+Danny Van Poppel,16,330
+Edward Theuns,14,291
+Phil Bauhaus,12,315
+Dan McLay,12,135
+Arnaud De Lie,10,228
+Simone Consonni,10,216
+Piet Allegaert,8,204
+Lorrenzo Manzin,6,192
+Jordi Warlop,6,171
+Tony Gallopin,6,162
+Marijn Van Den Berg,6,144
+Rune Herregodts,6,108
+Fabien Doubey,6,99
+Sandy Dujardin,4,153
+Jenno Berckmoes,4,72
+Ben Zwiehoff,4,60
+Johan Meens,4,45
+Juan Antonio Lopez-Cozar,4,45
+Jens Reynders,4,45
