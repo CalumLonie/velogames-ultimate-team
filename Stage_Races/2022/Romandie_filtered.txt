@@ -1,0 +1,26 @@
+Names,Cost,Points
+Aleksandr Vlasov,18,936
+Damiano Caruso,18,422
+Rohan Dennis,14,708
+Ben O'Connor,14,457
+Ethan Hayter,12,530
+Felix Grossschartner,12,294
+Dylan Teuns,12,266
+Juan Ayuso,10,513
+Gino Maeder,10,445
+Steven Kruijswijk,10,336
+Einer Rubio,10,220
+Marc Hirschi,10,209
+Luke Plapp,8,182
+Sebastien Reichenbach,8,166
+Simon Geschke,6,372
+Quinten Hermans,6,309
+Paddy Bevin,6,257
+Toms Skujins,6,198
+Steff Cras,6,186
+Mauro Schmid,6,159
+Sean Quinn,6,154
+Carlos Verona,6,148
+Jon Aberasturi,6,124
+Krists Neilands,4,95
+Nils Brun,4,80
