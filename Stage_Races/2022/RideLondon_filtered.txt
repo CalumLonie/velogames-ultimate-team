@@ -1,0 +1,21 @@
+Names,Cost,Points
+Lorena Wiebes,24,935
+Elisa Balsamo,24,608
+Lotte Kopecky,20,578
+Marta Bastianelli,20,377
+Emma Norsgaard,18,564
+Chiara Consonni,14,506
+Coryn Labecki,14,181
+Anna Henderson,12,203
+Silvia Persico,10,432
+Julia Borgstrom,6,247
+Jesse Vandenbulcke,6,243
+Rachele Barbieri,6,218
+Simone Boilard,6,199
+Vittoria Guazzini,6,179
+Letizia Borghesi,6,171
+Quinty Ton,6,160
+Shari Bossuyt,6,81
+Lara Vieceli,6,73
+Alice Sharpe,4,96
+Anastasia Carbonari,4,68
