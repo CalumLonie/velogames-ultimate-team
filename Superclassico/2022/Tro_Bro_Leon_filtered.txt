@@ -1,0 +1,20 @@
+Names,Cost,Points
+Florian Vermeersch,16,138
+Hugo Hofstetter,14,345
+Connor Swift,12,345
+Stan Dewulf,12,138
+Amaury Capiot,12,114
+Baptiste Planckaert,12,96
+Luca Mozzato,10,330
+Arnaud De Lie,10,210
+Clement Russo,10,120
+Andreas Kron,10,114
+Piet Allegaert,8,84
+Clement Venturini,8,66
+Laurent Pichon,6,276
+Matis Louvel,6,225
+Cedric Beullens,6,120
+Christophe Noppe,6,60
+Matthieu Ladagnous,4,129
+Eddy Fine,4,78
+Martin Urianstad,4,60
