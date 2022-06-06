@@ -1,0 +1,15 @@
+Names,Cost,Points
+Alexander Kristoff,20,183
+Jelle Wallays,8,90
+Aaron Van Poucke,8,78
+Taco Van Der Hoorn,6,420
+Rune Herregodts,6,330
+Arjen Livyns,6,285
+Bram Welten,6,276
+Kaden Groves,6,108
+Axel Zingle,6,96
+Tobias Bayer,4,360
+Gilles De Wilde,4,300
+Laurenz Rex,4,129
+Axel Laurance,4,90
+Ben Turner,4,42
