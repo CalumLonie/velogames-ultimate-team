@@ -1,0 +1,21 @@
+Names,Cost,Points
+Demi Vollering,24,1031
+Ashleigh Moolman-Pasio,24,295
+Marta Cavalli,22,526
+Juliette Labous,16,383
+Elise Chabbey,16,354
+Liane Lippert,14,479
+Pauliena Rooijakkers,12,611
+Niamh Fisher-Black,12,460
+Paula Patino,12,229
+Kristen Faulkner,10,435
+Floortje Mackaij,10,340
+Anna Shackley,10,183
+Olivia Baril,8,307
+Kristabel Doebel-Hickok,8,146
+Veronica Ewers,6,218
+Esmee Peperkamp,6,111
+Urska Zigart,6,74
+Petra Stiasny,4,66
+Mireia Benito,4,64
+Yuliia Biriukova,4,56
