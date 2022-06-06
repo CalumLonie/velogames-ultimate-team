@@ -1,0 +1,23 @@
+Names,Cost,Points
+Alexander Kristoff,20,270
+Florian Vermeersch,16,138
+Jake Stewart,14,240
+Amaury Capiot,12,210
+Niccolo Bonifazio,12,141
+Luca Mozzato,10,180
+Andreas Kron,10,120
+Julien Simon,8,300
+Clement Venturini,8,156
+Jonathan Lastra,8,129
+Chris Lawless,6,159
+Finn Fisher-Black,6,108
+Harry Sweeny,6,90
+Ivo Oliveira,6,90
+Alexis Renard,6,84
+Fernando Barcelo,6,66
+Eddy Fine,4,165
+Sandy Dujardin,4,105
+Francisco Galvan,4,102
+Carlos Canal,4,90
+Pau Miquel,4,78
+Theo Delacroix,4,72
