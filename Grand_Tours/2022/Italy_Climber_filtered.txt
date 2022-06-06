@@ -1,0 +1,7 @@
+Names,Cost,Points
+Mikel Landa,18,1432
+Jai Hindley,10,2128
+Lennard Kaemna,8,1274
+Koen Bouwman,6,1256
+Jan Hirt,6,1113
+Santiago Buitrago,6,1011

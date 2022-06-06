@@ -1,0 +1,27 @@
+Names,Cost,Points
+Richard Carapaz,24,2244
+Joao Almeida,20,985
+Pello Bilbao,12,1312
+Wilco Kelderman,12,1042
+Thymen Arensman,8,975
+Mikel Landa,18,1432
+Jai Hindley,10,2128
+Lennard Kaemna,8,1274
+Koen Bouwman,6,1256
+Jan Hirt,6,1113
+Santiago Buitrago,6,1011
+Arnaud Demare,10,1437
+Mark Cavendish,10,941
+Biniam Girmay,8,1119
+Fernando Gaviria,8,1002
+Alberto Dainese,6,697
+Mathieu Van Der Poel,12,1325
+Mauro Schmid,8,629
+Magnus Cort,8,519
+Alessandro Covi,8,474
+Juan Pedro Lopez,6,962
+Gijs Leemreize,6,799
+Simone Consonni,6,630
+Edward Theuns,6,503
+Davide Gabburo,4,527
+Domen Novak,4,377

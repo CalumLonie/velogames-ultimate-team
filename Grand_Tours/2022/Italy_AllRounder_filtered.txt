@@ -1,0 +1,6 @@
+Names,Cost,Points
+Richard Carapaz,24,2244
+Joao Almeida,20,985
+Pello Bilbao,12,1312
+Wilco Kelderman,12,1042
+Thymen Arensman,8,975

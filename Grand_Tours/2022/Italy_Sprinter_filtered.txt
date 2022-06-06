@@ -1,0 +1,6 @@
+Names,Cost,Points
+Arnaud Demare,10,1437
+Mark Cavendish,10,941
+Biniam Girmay,8,1119
+Fernando Gaviria,8,1002
+Alberto Dainese,6,697

@@ -1,0 +1,11 @@
+Names,Cost,Points
+Mathieu Van Der Poel,12,1325
+Mauro Schmid,8,629
+Magnus Cort,8,519
+Alessandro Covi,8,474
+Juan Pedro Lopez,6,962
+Gijs Leemreize,6,799
+Simone Consonni,6,630
+Edward Theuns,6,503
+Davide Gabburo,4,527
+Domen Novak,4,377
