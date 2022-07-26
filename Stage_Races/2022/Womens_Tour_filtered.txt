@@ -1,0 +1,30 @@
+Names,Cost,Points
+Elisa Longo Borghini,18,941
+Katarzyna Niewiadoma,18,676
+Ashleigh Moolman-Pasio,18,415
+Lorena Wiebes,16,644
+Grace Brown,14,699
+Alexandra Manly,14,584
+Elise Chabbey,14,568
+Clara Copponi,14,546
+Christine Majerus,12,263
+Sofia Bertizzolo,10,409
+Kristen Faulkner,10,375
+Maria Giulia Confalonieri,10,312
+Veronica Ewers,10,296
+Coryn Labecki,10,217
+Mikayla Harvey,8,240
+Elena Cecchini,8,233
+Riejanne Markus,8,212
+Shari Bossuyt,6,352
+Ingvild Gaskjenn,6,283
+Arianna Fidanza,6,271
+Barbara Guarischi,6,254
+Eugenie Duval,6,229
+Maike Van Der Duin,6,174
+Tereza Neumanova,6,167
+Marta Lach,6,154
+Georgia Williams,6,131
+Laura Asencio,4,69
+Tiril Jorgensen,4,64
+Anne Dorthe Ysland,4,64
