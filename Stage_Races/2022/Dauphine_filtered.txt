@@ -1,0 +1,24 @@
+Names,Cost,Points
+Primoz Roglic,24,932
+Wout Van Aert,18,1016
+Jonas Vingegaard,14,799
+Damiano Caruso,14,481
+Ben O'Connor,14,476
+Ethan Hayter,12,695
+Ruben Guerreiro,10,345
+Esteban Chaves,10,341
+Tao Geoghegan Hart,10,323
+Tobias Halland Johannessen,10,288
+Louis Meintjes,8,286
+Victor Lafay,8,266
+Andrea Bagioli,8,266
+Matteo Jorgenson,8,245
+Pierre Rolland,6,409
+Edvald Boasson Hagen,6,331
+Carlos Verona,6,294
+Alexis Vuillermoz,6,239
+Hugo Page,4,329
+Valentin Ferron,4,213
+Kevin Vermaerke,4,175
+Anders Skaarseth,4,161
+Olivier Le Gac,4,150
