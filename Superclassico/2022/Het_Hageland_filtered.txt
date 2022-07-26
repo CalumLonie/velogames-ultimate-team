@@ -1,0 +1,23 @@
+Names,Cost,Points
+Florian Senechal,22,240
+Florian Vermeersch,16,144
+Gianni Vermeersch,14,315
+Rasmus Tiller,12,129
+Oscar Riesebeek,10,360
+Arnaud De Lie,10,165
+Clement Russo,10,138
+Loic Vliegen,8,180
+Piet Allegaert,8,147
+Guillaume Boivin,8,66
+Stan Van Tricht,6,225
+Tom Devriendt,6,156
+Fabio Van Den Bossche,6,141
+Julian Mertens,6,120
+Taco Van Der Hoorn,6,102
+Lionel Taminiaux,6,99
+Jens Reynders,4,108
+Thijs Aerts,4,102
+Quentin Jauregui,4,96
+Ward Vanhoof,4,90
+Sander Lemmens,4,84
+Sander De Pestel,4,78
