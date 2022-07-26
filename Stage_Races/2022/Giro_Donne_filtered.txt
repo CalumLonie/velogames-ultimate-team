@@ -1,0 +1,24 @@
+Names,Cost,Points
+Annemiek Van Vleuten,24,1356
+Marta Cavalli,18,1046
+Elisa Longo Borghini,18,930
+Cecilie Uttrup Ludwig,18,530
+Elisa Balsamo,16,805
+Marianne Vos,16,610
+Mavi Garcia,14,809
+Lotte Kopecky,14,508
+Juliette Labous,14,493
+Elise Chabbey,14,400
+Kristen Faulkner,12,857
+Niamh Fisher-Black,12,552
+Chiara Consonni,12,362
+Silvia Persico,10,539
+Erica Magnaldi,10,366
+Evita Muzic,10,297
+Amanda Spratt,10,288
+Charlotte Kool,8,410
+Georgia Baker,8,307
+Rachele Barbieri,6,360
+Gaia Realini,6,298
+Anouska Koster,6,215
+Neve Bradbury,4,286
