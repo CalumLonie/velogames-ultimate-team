@@ -1,0 +1,11 @@
+Names,Cost,Points
+Filippo Ganna,10,695
+Tom Pidcock,8,1080
+Magnus Cort,8,706
+Bob Jungels,6,691
+Valentin Madouas,6,642
+Simon Geschke,6,608
+Hugo Houle,6,580
+Nathan Van Hooydonck,4,290
+Benjamin Thomas,4,277
+Jeremy Lecroq,4,243

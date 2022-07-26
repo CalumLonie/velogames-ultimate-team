@@ -1,0 +1,5 @@
+Names,Cost,Points
+Wout Van Aert,18,2917
+Jasper Philipsen,14,1384
+Mads Pedersen,8,987
+Christophe Laporte,6,968

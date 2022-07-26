@@ -1,0 +1,6 @@
+Names,Cost,Points
+Tadej Pogacar,26,3412
+Jonas Vingegaard,18,3199
+Geraint Thomas,14,2025
+Aleksandr Vlasov,14,1101
+Neilson Powless,6,910

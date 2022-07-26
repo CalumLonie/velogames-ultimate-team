@@ -1,0 +1,25 @@
+Names,Cost,Points
+Tadej Pogacar,26,3412
+Jonas Vingegaard,18,3199
+Geraint Thomas,14,2025
+Aleksandr Vlasov,14,1101
+Neilson Powless,6,910
+Adam Yates,12,1107
+David Gaudu,10,1442
+Nairo Quintana,10,1109
+Romain Bardet,10,1015
+Louis Meintjes,6,894
+Wout Van Aert,18,2917
+Jasper Philipsen,14,1384
+Mads Pedersen,8,987
+Christophe Laporte,6,968
+Filippo Ganna,10,695
+Tom Pidcock,8,1080
+Magnus Cort,8,706
+Bob Jungels,6,691
+Valentin Madouas,6,642
+Simon Geschke,6,608
+Hugo Houle,6,580
+Nathan Van Hooydonck,4,290
+Benjamin Thomas,4,277
+Jeremy Lecroq,4,243

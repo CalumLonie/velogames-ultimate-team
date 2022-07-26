@@ -1,0 +1,6 @@
+Names,Cost,Points
+Adam Yates,12,1107
+David Gaudu,10,1442
+Nairo Quintana,10,1109
+Romain Bardet,10,1015
+Louis Meintjes,6,894
