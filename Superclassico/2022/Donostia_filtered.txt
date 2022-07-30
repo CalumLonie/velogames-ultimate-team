@@ -1,0 +1,26 @@
+Names,Cost,Points
+Remco Evenepoel,28,540
+Tiesj Benoot,20,360
+Bauke Mollema,20,315
+Simon Yates,18,246
+George Bennett,16,162
+Pavel Sivakov,14,405
+Rigoberto Uran,14,204
+Lorenzo Rota,14,192
+Rudy Molard,14,171
+Toms Skujins,12,228
+Jonathan Lastra,8,135
+Antonio Pedrero,8,108
+Carl Fredrik Hagen,8,81
+Carlos Rodriguez,6,310
+Mattias Skjelmose,6,216
+Roger Adria,6,180
+Clement Berthet,6,153
+Stefan De Bod,6,144
+Chris Hamilton,6,63
+Joel Nicolau,4,126
+Eugenio Sanchez,4,45
+Ibai Azurmendi,4,45
+Fabien Grellier,4,45
+Jon Barrenetxea,4,45
+Theo Delacroix,4,45
