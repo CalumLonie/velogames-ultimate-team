@@ -1,0 +1,22 @@
+Names,Cost,Points
+Annemiek Van Vleuten,26,889
+Demi Vollering,22,913
+Elisa Longo Borghini,18,760
+Lorena Wiebes,18,460
+Marianne Vos,14,1035
+Cecilie Uttrup Ludwig,14,576
+Katarzyna Niewiadoma,12,873
+Lotte Kopecky,12,539
+Mavi Garcia,12,373
+Juliette Labous,10,504
+Elise Chabbey,10,331
+Silvia Persico,8,955
+Evita Muzic,8,397
+Veronica Ewers,8,333
+Rachele Barbieri,8,301
+Maria Guilia Confalonieri,8,249
+Pauliena Rooijakkers,8,223
+Riejanne Markus,8,214
+Maike Van Der Duin,6,277
+Alena Amialiusik,6,273
+Tamara Dromova,6,214
