@@ -1,0 +1,33 @@
+Names,Cost,Points
+Ethan Hayter,18,628
+Sergio Higuita,18,377
+Pello Bilbao,16,508
+Arnaud Demare,14,514
+Thymen Arensman,14,433
+Ben Tulett,14,349
+Olav Kooij,12,599
+Diego Ulissi,12,302
+Phil Bauhaus,10,486
+Matteo Sobrero,10,383
+Pascal Ackermann,10,374
+Remi Cavagna,10,296
+Max Kanter,8,387
+Quinten Hermans,8,315
+Gerben Thijssen,8,293
+Jordi Meeus,8,285
+Quentin Pacher,8,257
+Samuele Battistella,8,240
+Nikias Arndt,8,166
+Edward Theuns,8,166
+Jonathan Milan,6,366
+Magnus Sheffield,6,184
+Bruno Armirail,6,157
+Sylvain Moniquet,6,133
+Marijn Van Den Berg,6,128
+Stephen Williams,6,126
+Marco Brenner,4,211
+Jonas Abrahamsen,4,121
+Kamil Malecki,4,116
+Michel Hessmann,4,108
+Jarrad Drizners,4,97
+Ryan Mullen,4,80
