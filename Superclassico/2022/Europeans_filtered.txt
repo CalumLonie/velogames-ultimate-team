@@ -1,0 +1,21 @@
+Names,Cost,Points
+Fabio Jakobsen,24,450
+Sam Bennett,22,270
+Arnaud Demare,20,405
+Tim Merlier,20,360
+Alexander Kristoff,20,216
+Elia Viviani,18,228
+Danny Van Poppel,16,375
+Luka Mezgec,14,246
+Alberto Dainese,10,180
+Martin Laas,10,171
+Jon Aberasturi,8,204
+Itamar Einhorn,6,162
+Emils Liepins,6,153
+Stanislaw Aniolkowski,6,144
+Rui Oliveira,6,135
+Tom Bohli,6,126
+Lukas Poestelberger,6,90
+Sebastian Schoenberger,4,45
+Elmar Reinders,1,60
+Thomas Boudat,1,40
