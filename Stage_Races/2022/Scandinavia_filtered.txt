@@ -1,0 +1,32 @@
+Names,Cost,Points
+Marianne Vos,24,1006
+Cecilie Uttrup Ludwig,20,741
+Alexandra Manly,14,798
+Liane Lippert,14,489
+Floortje Mackaij,14,354
+Sofia Bertizzolo,14,352
+Lucinda Brand,12,388
+Alison Jackson,12,283
+Barbara Guarischi,10,262
+Katrine Aalerud,10,169
+Erica Magnaldi,10,165
+Shari Bossuyt,8,615
+Tamara Dronova,8,500
+Emilia Fahlin,8,268
+Neve Bradbury,8,227
+Gladys Verhulst,8,204
+Anouska Koster,6,447
+Julie Van De Velde,6,308
+Esmee Peperkamp,6,250
+Amber Kraak,6,174
+Linda Riedmann,6,167
+Amalie Dideriksen,6,139
+Nina Kessler,6,138
+Femke Gerritse,6,137
+Lara Tomasi,6,123
+Megan Jastrab,4,397
+Josie Nelson,4,179
+Karolina Kumiega,4,106
+Eva Van Agt,4,101
+Eline Van Rooijen,4,91
+Lea Curinier,4,72
