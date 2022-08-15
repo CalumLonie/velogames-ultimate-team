@@ -1,0 +1,23 @@
+Names,Cost,Points
+Alexander Kristoff,20,330
+Bryan Coquard,14,129
+Jasper De Buyst,10,255
+Victor Campenaerts,10,240
+Alberto Dainese,10,180
+Arnaud De Lie,10,180
+Julien Simon,8,186
+Loic Vliegen,8,123
+Pieter Serry,8,84
+Piet Allegaert,8,72
+Dries Van Gestel,6,300
+Milan Menten,6,147
+Jenthe Biermans,6,120
+Cyril Barthe,6,114
+Benjamin Declercq,6,108
+Lennert Teugels,6,102
+Ruben Apers,4,90
+Tim Naberman,4,60
+Timo De Jong,4,60
+Tom Sexton,4,60
+Corne Van Kessel,4,45
+Ceriel Desal,4,42
