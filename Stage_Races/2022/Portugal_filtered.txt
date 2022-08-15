@@ -1,0 +1,29 @@
+Names,Cost,Points
+Mauricio Moreira,22,1841
+Frederico Figueiredo,16,1258
+Alejandro Manuel Marque,16,655
+Antonio Carvalho,14,1355
+Delio Fernandez,14,606
+Luis Gomes,14,483
+Luis Fernandes,12,715
+Andre Cardoso,12,502
+Henrique Casimiro,12,488
+Joaquim Silva,8,284
+Javier Moreno,8,248
+Joao Matias,6,743
+Txomin Juaristi,6,441
+Oliver Rees,6,400
+Jesus Del Pino,6,382
+Emanuel Duarte,6,299
+Jokin Murguialday,6,293
+Joey Rosskopf,6,278
+Cesar Martingil,6,267
+Antonio Barbio,6,254
+Scott McGill,4,837
+Fabio Costa,4,394
+Thomas Armstrong,4,350
+Asier Etxeberria,4,238
+Barry Miller,4,211
+Venceslau Fernandes,4,165
+Andoni Lopez,4,131
+Calum Johnston,4,122
